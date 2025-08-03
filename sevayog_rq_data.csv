@@ -1,0 +1,801 @@
+RecordID,UserID,UserName,User_Latitude,User_Longitude,DonationID,Donation_Date,Donation_Time,Description_,DonationType,Quantity,Time_Duration,Organization_ID,Organization_Name,Org_City,Org_Latitude,Org_Longitude,DeliveryBoyID,Delivery_Status,Estimated_Delivery_Time
+30,146,Girish Loyal,26.869622,75.827867,DON-1030,2025-01-10,08:27:00,Milk packets,Water,89,22 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,11.0,In Progress,
+536,111,Odika Venkataraman,26.828806,75.824745,DON-1536,2025-01-10,11:44:00,dry snacks,Water,1,17 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,3.0,Pending,
+696,97,Chaaya Pai,26.732239,75.702748,DON-1696,2025-01-30,09:30:00,rice,Dry,33,22 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,4.0,In Progress,5 hours
+558,177,Raagini Bobal,26.848692,75.873076,DON-1558,2025-01-23,19:35:00,Flour and pulses,Water,77,1 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,43.0,Completed,2 hours
+837,169,Timothy Wadhwa,26.746287,75.850718,DON-1837,2025-01-30,07:00:00,rice,Water,49,9 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,In Progress,1 hours
+597,194,Yamini Setty,26.728363,75.763433,DON-1597,2025-01-18,16:49:00,Dal and roti,Dry,1,11 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,30.0,In Progress,3 hours
+166,120,Forum Pall,26.76098,75.843718,DON-1166,2025-01-04,14:10:00,Flour and pulses,Water,20,12 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Completed,4 hours
+919,63,Nidhi Khosla,26.826754,75.88473,DON-1919,2025-01-04,13:42:00,Vegetable,Dry,15,19 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,15.0,Pending,4 hours
+496,21,Bhanumati Majumdar,26.717979,75.843459,DON-1496,2025-01-22,19:30:00,Milk packets,Dry,98,23 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,45.0,In Progress,5 hours
+825,23,Imaran Agrawal,26.843395,75.719411,DON-1825,2025-01-07,12:36:00,Wheat flour and oil for rural areas,Water,46,15 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,50.0,Completed,
+66,55,Samesh Upadhyay,26.755705,75.767408,DON-1066,2025-01-02,16:38:00,Barley Packets,Water,77,5 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,10.0,In Progress,3 hours
+142,20,Vamakshi Bajwa,26.850124,75.701205,DON-1142,2025-01-15,08:30:00,Vegetable,Water,52,18 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,7.0,Pending,4 hours
+926,140,Sachi Sabharwal,26.825339,75.70685,DON-1926,2025-01-09,17:47:00,fruits,Dry,75,1 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,27.0,Pending,3 hours
+828,27,Henry Radhakrishnan,26.833942,75.756539,DON-1828,2025-01-21,08:17:00,Flour and pulses,Dry,45,10 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,46.0,Pending,5 hours
+656,156,Meera Grewal,26.726773,75.897813,DON-1656,2025-01-15,17:50:00,Flour and pulses,Water,71,17 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,13.0,In Progress,5 hours
+332,68,Gautam Dass,26.768658,75.841597,DON-1332,2025-01-19,08:12:00,fruits,Dry,85,7 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,20.0,Completed,1 hours
+665,168,Vamakshi Choudhury,26.769191,75.873895,DON-1665,2025-01-09,18:55:00,Milk packets,Dry,69,23 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,5.0,Completed,4 hours
+250,171,Aditya Pillay,26.774651,75.847822,DON-1250,2025-01-09,16:28:00,Vegetable,Water,7,18 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,36.0,Pending,
+908,149,Daniel Babu,26.817914,75.810724,DON-1908,2025-01-28,10:35:00,rice,Water,15,16 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,Pending,4 hours
+709,118,Patrick Handa,26.721593,75.766572,DON-1709,2025-01-15,18:34:00,dry snacks,Dry,37,22 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,In Progress,5 hours
+306,21,Bhanumati Majumdar,26.717979,75.843459,DON-1306,2025-01-14,15:42:00,Vegetable,Dry,41,16 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,Pending,
+735,18,Omisha Chatterjee,26.780371,75.762158,DON-1735,2025-01-26,19:45:00,Vegetable,Dry,23,22 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,30.0,In Progress,5 hours
+976,166,Baljiwan Kade,26.832616,75.808507,DON-1976,2025-01-02,19:13:00,Oats,Water,76,5 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,48.0,Completed,1 hours
+50,119,Neelima Loke,26.71516,75.826112,DON-1050,2025-01-26,10:04:00,Barley Packets,Dry,100,2 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,24.0,Completed,
+897,7,Kashvi Dayal,26.848638,75.826573,DON-1897,2025-01-17,17:04:00,rice,Dry,80,11 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,8.0,Completed,1 hours
+3,86,Kritika Rege,26.816809,75.734132,DON-1003,2025-01-04,18:46:00,Wheat flour and oil for rural areas,Dry,62,13 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,11.0,In Progress,4 hours
+545,93,Bina Jayaraman,26.739237,75.715902,DON-1545,2025-01-07,07:57:00,Wheat flour and oil for rural areas,Water,44,8 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,9.0,In Progress,2 hours
+351,87,Lila Maharaj,26.749056,75.831943,DON-1351,2025-01-02,09:19:00,rice,Water,16,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,42.0,In Progress,4 hours
+905,151,Timothy Thaker,26.791041,75.832741,DON-1905,2025-01-24,19:20:00,fruits,Water,91,7 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,29.0,Completed,
+537,79,Chakrika Mukhopadhyay,26.797907,75.74848,DON-1537,2025-01-22,07:39:00,Milk packets,Dry,32,2 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,46.0,Completed,4 hours
+345,24,Damini Subramanian,26.890176,75.805074,DON-1345,2025-01-21,07:54:00,Flour and pulses,Water,92,23 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,22.0,Pending,1 hours
+995,37,Jackson Mall,26.750265,75.766778,DON-1995,2025-01-14,07:59:00,Oats,Water,92,18 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,36.0,Completed,
+482,14,Girindra Kapoor,26.812166,75.808842,DON-1482,2025-01-09,09:09:00,Oats,Dry,19,17 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,28.0,Pending,5 hours
+576,58,Leela Gala,26.875353,75.799436,DON-1576,2025-01-22,15:09:00,Wheat flour and oil for rural areas,Dry,38,24 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,4.0,Completed,
+34,30,Michael Krish,26.7969,75.818032,DON-1034,2025-01-11,18:19:00,Oats,Dry,17,19 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,Pending,2 hours
+32,152,Vamakshi Kurian,26.708665,75.832188,DON-1032,2025-01-07,15:01:00,rice,Water,75,7 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,7.0,Pending,4 hours
+232,178,Wazir Rajagopalan,26.775738,75.726888,DON-1232,2025-01-14,11:33:00,fruits,Water,57,4 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,5.0,In Progress,
+964,76,Reyansh Roy,26.852432,75.718702,DON-1964,2025-01-03,15:12:00,Milk packets,Dry,88,20 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,17.0,In Progress,
+193,126,Omaja Jayaraman,26.882616,75.875604,DON-1193,2025-01-11,11:05:00,Barley Packets,Water,16,3 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,50.0,In Progress,4 hours
+334,137,Advik Garde,26.706588,75.712096,DON-1334,2025-01-09,16:59:00,Dal and roti,Dry,15,14 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,28.0,Pending,
+4,140,Sachi Sabharwal,26.825339,75.70685,DON-1004,2025-01-03,08:01:00,rice,Dry,33,5 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,26.0,In Progress,4 hours
+205,142,Ronith Modi,26.86912,75.703609,DON-1205,2025-01-07,13:06:00,rice,Water,80,22 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,38.0,Pending,
+515,34,Hredhaan Pai,26.786442,75.861936,DON-1515,2025-01-22,07:43:00,Oats,Dry,56,14 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,39.0,In Progress,
+800,195,Sathvik Hans,26.707639,75.78968,DON-1800,2025-01-12,14:37:00,dry snacks,Water,76,1 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,In Progress,2 hours
+307,181,Mohammed Narayan,26.871337,75.709616,DON-1307,2025-01-08,12:36:00,Barley Packets,Dry,39,18 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,36.0,Pending,4 hours
+110,192,Diya Goswami,26.863776,75.740527,DON-1110,2025-01-09,17:29:00,rice,Water,42,17 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,39.0,Completed,2 hours
+431,192,Diya Goswami,26.863776,75.740527,DON-1431,2025-01-11,18:29:00,Oats,Water,15,5 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,32.0,Pending,3 hours
+78,191,Ucchal Varty,26.729859,75.842731,DON-1078,2025-01-05,10:00:00,Milk packets,Dry,3,6 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,41.0,Completed,5 hours
+85,22,Zehaan Khanna,26.800031,75.801223,DON-1085,2025-01-11,15:28:00,Oats,Dry,73,4 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,21.0,Pending,5 hours
+287,14,Girindra Kapoor,26.812166,75.808842,DON-1287,2025-01-28,16:02:00,Vegetable,Water,33,23 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,17.0,Completed,4 hours
+83,189,Saksham Dara,26.766417,75.833211,DON-1083,2025-01-01,16:02:00,dry snacks,Dry,89,23 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,14.0,Completed,4 hours
+992,52,Yashica Badal,26.811817,75.719955,DON-1992,2025-01-16,17:15:00,fruits,Dry,74,9 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,18.0,In Progress,4 hours
+790,15,Yatan Bobal,26.787137,75.713336,DON-1790,2025-01-14,10:25:00,Vegetable,Dry,62,13 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Completed,
+895,30,Michael Krish,26.7969,75.818032,DON-1895,2025-01-14,16:01:00,Oats,Dry,70,5 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,42.0,Pending,3 hours
+399,25,Odika Lad,26.895331,75.776957,DON-1399,2025-01-14,13:41:00,Flour and pulses,Water,52,8 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,34.0,Completed,1 hours
+324,99,Praneel Lalla,26.83885,75.857945,DON-1324,2025-01-09,19:12:00,rice,Water,35,23 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,50.0,In Progress,4 hours
+520,24,Damini Subramanian,26.890176,75.805074,DON-1520,2025-01-25,16:55:00,Vegetable,Water,29,1 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,26.0,Pending,1 hours
+917,71,Chasmum Guha,26.785531,75.717638,DON-1917,2025-01-09,16:42:00,Oats,Water,44,3 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,,In Progress,1 hours
+923,123,Priya De,26.853885,75.8277,DON-1923,2025-01-05,10:45:00,Vegetable,Dry,15,3 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,In Progress,1 hours
+6,186,Chakrika Dubey,26.848795,75.860781,DON-1006,2025-01-12,12:45:00,Milk packets,Water,16,1 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,7.0,In Progress,
+732,86,Kritika Rege,26.816809,75.734132,DON-1732,2025-01-01,08:38:00,Dal and roti,Water,19,22 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,1.0,In Progress,
+466,69,Warjas Virk,26.885834,75.776409,DON-1466,2025-01-09,08:44:00,Wheat flour and oil for rural areas,Water,8,22 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,23.0,Pending,1 hours
+98,40,Agastya Ramesh,26.72999,75.828707,DON-1098,2025-01-20,14:57:00,rice,Water,25,4 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,50.0,In Progress,2 hours
+267,126,Omaja Jayaraman,26.882616,75.875604,DON-1267,2025-01-09,11:57:00,Wheat flour and oil for rural areas,Dry,11,15 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,10.0,Pending,5 hours
+358,62,Vedhika Kapoor,26.731938,75.817508,DON-1358,2025-01-03,09:55:00,Oats,Dry,73,23 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,19.0,Pending,
+869,125,Amol Dua,26.792936,75.867675,DON-1869,2025-01-15,09:42:00,Vegetable,Water,91,10 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,43.0,Pending,5 hours
+799,163,Omaja Khurana,26.722172,75.817344,DON-1799,2025-01-27,16:58:00,fruits,Dry,12,2 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,
+381,153,Imaran Dugar,26.714265,75.856695,DON-1381,2025-01-06,08:29:00,rice,Dry,64,1 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,9.0,Completed,2 hours
+632,113,Bakhshi Bedi,26.786866,75.895987,DON-1632,2025-01-09,07:58:00,dry snacks,Water,33,5 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,12.0,In Progress,1 hours
+382,110,Hritik Chowdhury,26.754694,75.767868,DON-1382,2025-01-30,13:18:00,Vegetable,Dry,75,12 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,13.0,In Progress,1 hours
+491,198,Tarak Dayal,26.892582,75.723841,DON-1491,2025-01-29,10:38:00,Milk packets,Dry,45,3 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,25.0,Pending,2 hours
+119,114,Yash Patla,26.872962,75.785411,DON-1119,2025-01-05,07:49:00,Oats,Dry,45,17 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,16.0,Completed,2 hours
+901,186,Chakrika Dubey,26.848795,75.860781,DON-1901,2025-01-18,10:10:00,Barley Packets,Dry,44,9 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,Pending,
+251,101,Suhani Anand,26.763429,75.750599,DON-1251,2025-01-15,17:46:00,Barley Packets,Dry,44,22 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,45.0,Completed,
+524,78,Lajita Bala,26.787715,75.859456,DON-1524,2025-01-23,08:10:00,Wheat flour and oil for rural areas,Dry,60,22 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,46.0,Completed,4 hours
+10,87,Lila Maharaj,26.749056,75.831943,DON-1010,2025-01-03,12:13:00,Milk packets,Water,1,1 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,,Completed,
+197,115,Aachal D’Alia,26.878545,75.89746,DON-1197,2025-01-27,18:00:00,Dal and roti,Water,88,3 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,24.0,Pending,
+604,165,Vedant Kale,26.806082,75.883446,DON-1604,2025-01-02,07:04:00,Barley Packets,Water,82,3 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,12.0,Completed,2 hours
+82,196,Abeer Barad,26.740076,75.857549,DON-1082,2025-01-03,14:13:00,Milk packets,Dry,76,2 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,31.0,Completed,3 hours
+784,192,Diya Goswami,26.863776,75.740527,DON-1784,2025-01-06,13:12:00,fruits,Dry,57,6 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,8.0,Pending,
+588,164,Gaurav Char,26.748791,75.714016,DON-1588,2025-01-06,08:13:00,rice,Water,19,6 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,10.0,Pending,5 hours
+798,169,Timothy Wadhwa,26.746287,75.850718,DON-1798,2025-01-10,19:03:00,dry snacks,Dry,59,13 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,21.0,In Progress,
+240,161,Fariq Som,26.827995,75.76684,DON-1240,2025-01-15,17:14:00,Dal and roti,Dry,35,19 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,30.0,In Progress,1 hours
+291,52,Yashica Badal,26.811817,75.719955,DON-1291,2025-01-11,09:28:00,Oats,Dry,20,21 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,22.0,Pending,4 hours
+212,139,Aarini Kakar,26.850323,75.879921,DON-1212,2025-01-17,18:14:00,Vegetable,Water,38,24 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,Pending,3 hours
+718,38,Ubika Sagar,26.790539,75.860142,DON-1718,2025-01-19,18:46:00,Barley Packets,Water,9,19 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,19.0,Completed,4 hours
+360,139,Aarini Kakar,26.850323,75.879921,DON-1360,2025-01-26,13:17:00,fruits,Water,83,24 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,39.0,Completed,1 hours
+450,12,Ojas Balasubramanian,26.842856,75.734832,DON-1450,2025-01-09,18:53:00,Dal and roti,Dry,58,6 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,7.0,In Progress,4 hours
+228,66,Abeer Saran,26.742704,75.729659,DON-1228,2025-01-01,12:58:00,Milk packets,Dry,65,5 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,15.0,In Progress,
+951,135,Jairaj Atwal,26.727805,75.715405,DON-1951,2025-01-17,08:23:00,dry snacks,Dry,8,8 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,1.0,In Progress,
+947,60,Tarak Bains,26.714342,75.746647,DON-1947,2025-01-11,08:20:00,Barley Packets,Water,88,24 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,13.0,Pending,3 hours
+797,163,Omaja Khurana,26.722172,75.817344,DON-1797,2025-01-06,16:59:00,Flour and pulses,Water,94,1 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,30.0,Completed,
+502,97,Chaaya Pai,26.732239,75.702748,DON-1502,2025-01-03,15:23:00,Wheat flour and oil for rural areas,Dry,88,22 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,43.0,Completed,1 hours
+465,69,Warjas Virk,26.885834,75.776409,DON-1465,2025-01-12,19:31:00,dry snacks,Water,35,8 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,24.0,In Progress,5 hours
+363,114,Yash Patla,26.872962,75.785411,DON-1363,2025-01-05,08:36:00,Vegetable,Dry,11,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,30.0,Completed,
+469,60,Tarak Bains,26.714342,75.746647,DON-1469,2025-01-16,15:09:00,Barley Packets,Dry,38,19 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,48.0,Completed,
+936,15,Yatan Bobal,26.787137,75.713336,DON-1936,2025-01-25,16:57:00,dry snacks,Dry,72,1 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,27.0,Completed,1 hours
+429,122,Zayyan Lal,26.794617,75.718491,DON-1429,2025-01-15,15:05:00,Wheat flour and oil for rural areas,Water,90,18 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,43.0,In Progress,5 hours
+8,41,Dayamai Saini,26.79009,75.863915,DON-1008,2025-01-22,15:14:00,Wheat flour and oil for rural areas,Dry,76,21 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,30.0,In Progress,5 hours
+156,47,Faraj Chopra,26.701914,75.711746,DON-1156,2025-01-09,09:23:00,Barley Packets,Water,100,2 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,In Progress,
+542,125,Amol Dua,26.792936,75.867675,DON-1542,2025-01-20,11:06:00,Barley Packets,Water,98,8 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,20.0,Completed,
+441,124,Indira Kamdar,26.73905,75.803713,DON-1441,2025-01-11,15:48:00,Vegetable,Dry,74,3 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,3.0,Completed,
+483,142,Ronith Modi,26.86912,75.703609,DON-1483,2025-01-18,09:26:00,fruits,Dry,100,7 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,23.0,In Progress,4 hours
+423,167,Vinaya Mittal,26.732401,75.708578,DON-1423,2025-01-03,07:03:00,Vegetable,Water,79,7 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,37.0,Completed,2 hours
+779,167,Vinaya Mittal,26.732401,75.708578,DON-1779,2025-01-04,10:53:00,Wheat flour and oil for rural areas,Water,78,6 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,25.0,In Progress,
+950,49,Hemang Devan,26.895605,75.703908,DON-1950,2025-01-12,19:51:00,Wheat flour and oil for rural areas,Dry,40,19 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,35.0,Pending,2 hours
+335,143,Kala Pathak,26.8176,75.820411,DON-1335,2025-01-30,19:31:00,fruits,Water,83,13 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,42.0,In Progress,
+577,58,Leela Gala,26.875353,75.799436,DON-1577,2025-01-18,12:14:00,Milk packets,Water,59,15 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,In Progress,1 hours
+935,169,Timothy Wadhwa,26.746287,75.850718,DON-1935,2025-01-21,17:24:00,dry snacks,Water,65,13 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,3.0,In Progress,3 hours
+568,39,Harsh Nadig,26.877666,75.723606,DON-1568,2025-01-13,09:26:00,rice,Dry,81,21 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,3.0,Pending,
+595,200,Bhavani Sami,26.890664,75.751653,DON-1595,2025-01-09,14:52:00,dry snacks,Dry,1,19 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,34.0,Completed,3 hours
+531,49,Hemang Devan,26.895605,75.703908,DON-1531,2025-01-12,07:59:00,Wheat flour and oil for rural areas,Dry,21,17 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,33.0,Pending,
+582,139,Aarini Kakar,26.850323,75.879921,DON-1582,2025-01-26,12:07:00,Milk packets,Water,88,3 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,39.0,Completed,5 hours
+708,161,Fariq Som,26.827995,75.76684,DON-1708,2025-01-07,12:39:00,Milk packets,Dry,26,6 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,34.0,In Progress,
+449,177,Raagini Bobal,26.848692,75.873076,DON-1449,2025-01-10,14:40:00,Flour and pulses,Water,21,18 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Pending,1 hours
+454,124,Indira Kamdar,26.73905,75.803713,DON-1454,2025-01-09,12:26:00,Flour and pulses,Water,29,24 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,In Progress,1 hours
+229,91,Kashish Goda,26.722831,75.701591,DON-1229,2025-01-17,09:28:00,fruits,Dry,76,16 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,35.0,In Progress,4 hours
+353,199,Eesha Bawa,26.838714,75.863655,DON-1353,2025-01-16,12:52:00,Barley Packets,Water,77,20 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,8.0,Completed,
+729,18,Omisha Chatterjee,26.780371,75.762158,DON-1729,2025-01-08,16:35:00,Milk packets,Dry,80,7 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,5.0,Pending,
+213,166,Baljiwan Kade,26.832616,75.808507,DON-1213,2025-01-30,11:13:00,Milk packets,Water,70,18 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,In Progress,3 hours
+80,13,Ijaya Kalla,26.821349,75.784117,DON-1080,2025-01-02,09:02:00,Flour and pulses,Water,1,4 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,13.0,Pending,4 hours
+149,19,Yahvi Mitra,26.779391,75.757973,DON-1149,2025-01-19,11:48:00,rice,Water,4,18 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,Pending,3 hours
+303,55,Samesh Upadhyay,26.755705,75.767408,DON-1303,2025-01-18,13:26:00,Vegetable,Water,65,24 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,3.0,Completed,4 hours
+629,39,Harsh Nadig,26.877666,75.723606,DON-1629,2025-01-30,09:39:00,Dal and roti,Water,93,14 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,39.0,Completed,
+778,121,Falguni Magar,26.84116,75.709804,DON-1778,2025-01-17,15:00:00,Barley Packets,Water,89,19 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,23.0,In Progress,2 hours
+507,29,Gautami Raja,26.848362,75.835266,DON-1507,2025-01-30,18:47:00,Vegetable,Water,96,6 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,40.0,In Progress,
+343,89,Tripti Vora,26.797725,75.87516,DON-1343,2025-01-20,09:45:00,Barley Packets,Water,94,9 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,23.0,Pending,2 hours
+486,85,Vaishnavi Kakar,26.889775,75.865199,DON-1486,2025-01-30,09:09:00,Wheat flour and oil for rural areas,Water,69,12 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,33.0,In Progress,2 hours
+712,21,Bhanumati Majumdar,26.717979,75.843459,DON-1712,2025-01-16,18:29:00,Flour and pulses,Dry,6,14 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,41.0,Completed,5 hours
+134,46,Varenya Nayak,26.873089,75.773779,DON-1134,2025-01-08,16:13:00,Milk packets,Water,99,19 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Pending,
+704,129,Chameli Sastry,26.813844,75.872913,DON-1704,2025-01-12,16:43:00,fruits,Water,15,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,19.0,Completed,5 hours
+312,37,Jackson Mall,26.750265,75.766778,DON-1312,2025-01-22,08:39:00,rice,Water,78,16 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,34.0,In Progress,1 hours
+723,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1723,2025-01-23,12:58:00,Vegetable,Water,43,24 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Completed,
+630,26,Umang Pradhan,26.759358,75.815687,DON-1630,2025-01-24,07:00:00,Oats,Water,27,24 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,46.0,Completed,3 hours
+1,129,Chameli Sastry,26.813844,75.872913,DON-1001,2025-01-25,12:47:00,Wheat flour and oil for rural areas,Dry,39,16 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,9.0,In Progress,2 hours
+317,176,Zilmil Bala,26.862976,75.772816,DON-1317,2025-01-17,13:47:00,Flour and pulses,Dry,37,11 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,7.0,In Progress,2 hours
+707,149,Daniel Babu,26.817914,75.810724,DON-1707,2025-01-18,16:09:00,fruits,Dry,20,16 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,31.0,Completed,2 hours
+548,183,Chasmum Saha,26.770021,75.813332,DON-1548,2025-01-12,10:50:00,Wheat flour and oil for rural areas,Water,88,8 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,6.0,In Progress,3 hours
+873,93,Bina Jayaraman,26.739237,75.715902,DON-1873,2025-01-10,08:36:00,Vegetable,Dry,88,15 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,32.0,Completed,5 hours
+533,44,Veda Mohan,26.823608,75.859325,DON-1533,2025-01-15,08:32:00,Flour and pulses,Dry,46,9 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,6.0,Completed,
+478,29,Gautami Raja,26.848362,75.835266,DON-1478,2025-01-21,09:08:00,Milk packets,Water,20,22 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,1.0,Pending,5 hours
+405,82,Noah Raj,26.848809,75.867494,DON-1405,2025-01-04,07:30:00,Vegetable,Dry,100,12 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,50.0,Completed,2 hours
+173,177,Raagini Bobal,26.848692,75.873076,DON-1173,2025-01-30,13:07:00,Milk packets,Water,100,4 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,8.0,Completed,
+126,141,Bimala Yogi,26.725135,75.891187,DON-1126,2025-01-14,11:09:00,Oats,Water,76,8 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,35.0,Completed,2 hours
+395,169,Timothy Wadhwa,26.746287,75.850718,DON-1395,2025-01-10,17:43:00,fruits,Water,89,5 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,15.0,In Progress,3 hours
+421,11,Anthony Nagy,26.793164,75.811186,DON-1421,2025-01-03,10:28:00,Wheat flour and oil for rural areas,Water,21,5 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,5.0,Completed,5 hours
+553,77,Manan Sheth,26.781223,75.712436,DON-1553,2025-01-01,12:38:00,Vegetable,Dry,42,7 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,38.0,Pending,2 hours
+904,48,Udarsh Upadhyay,26.70587,75.887977,DON-1904,2025-01-21,12:09:00,fruits,Dry,53,7 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,48.0,Completed,
+91,12,Ojas Balasubramanian,26.842856,75.734832,DON-1091,2025-01-11,18:26:00,Wheat flour and oil for rural areas,Water,26,19 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,46.0,In Progress,
+940,72,Vrinda Bera,26.740522,75.836951,DON-1940,2025-01-25,19:35:00,Flour and pulses,Dry,1,8 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,12.0,Completed,
+182,42,Ranbir Bala,26.703043,75.836002,DON-1182,2025-01-30,19:56:00,Oats,Water,35,11 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,46.0,Pending,1 hours
+275,149,Daniel Babu,26.817914,75.810724,DON-1275,2025-01-03,11:40:00,Milk packets,Dry,40,9 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,13.0,Pending,2 hours
+896,170,Harinakshi Patla,26.762652,75.800574,DON-1896,2025-01-26,11:29:00,dry snacks,Water,12,24 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,30.0,Completed,2 hours
+70,77,Manan Sheth,26.781223,75.712436,DON-1070,2025-01-12,17:13:00,Dal and roti,Water,47,22 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,34.0,Pending,
+292,176,Zilmil Bala,26.862976,75.772816,DON-1292,2025-01-25,09:44:00,Dal and roti,Water,40,23 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,15.0,Completed,
+132,141,Bimala Yogi,26.725135,75.891187,DON-1132,2025-01-26,10:14:00,fruits,Water,9,18 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,13.0,In Progress,5 hours
+301,106,Qushi Krishnan,26.799568,75.878814,DON-1301,2025-01-13,15:39:00,Wheat flour and oil for rural areas,Water,46,13 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,35.0,In Progress,1 hours
+425,59,Azad Nadig,26.855899,75.885136,DON-1425,2025-01-15,09:36:00,Wheat flour and oil for rural areas,Dry,62,20 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,49.0,In Progress,
+327,9,Zinal Bahl,26.700414,75.769247,DON-1327,2025-01-21,09:29:00,Flour and pulses,Water,10,11 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,24.0,Pending,4 hours
+145,42,Ranbir Bala,26.703043,75.836002,DON-1145,2025-01-18,18:53:00,fruits,Dry,52,18 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,10.0,Pending,5 hours
+424,87,Lila Maharaj,26.749056,75.831943,DON-1424,2025-01-08,11:52:00,Barley Packets,Dry,3,15 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,49.0,In Progress,3 hours
+581,68,Gautam Dass,26.768658,75.841597,DON-1581,2025-01-21,17:02:00,Milk packets,Water,6,13 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,41.0,Pending,
+136,66,Abeer Saran,26.742704,75.729659,DON-1136,2025-01-02,17:54:00,Wheat flour and oil for rural areas,Water,9,5 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,20.0,Completed,
+451,69,Warjas Virk,26.885834,75.776409,DON-1451,2025-01-01,16:28:00,Barley Packets,Water,23,1 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,20.0,Completed,4 hours
+165,119,Neelima Loke,26.71516,75.826112,DON-1165,2025-01-18,19:06:00,Flour and pulses,Water,24,7 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,In Progress,4 hours
+29,47,Faraj Chopra,26.701914,75.711746,DON-1029,2025-01-27,13:16:00,Vegetable,Dry,18,3 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,2.0,Pending,4 hours
+774,51,Rachita Sha,26.725445,75.837127,DON-1774,2025-01-07,09:51:00,Milk packets,Water,54,24 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,50.0,Completed,2 hours
+194,174,Anita Som,26.819708,75.809288,DON-1194,2025-01-22,08:27:00,rice,Water,54,23 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,42.0,In Progress,
+389,8,Luke Prabhu,26.751346,75.860503,DON-1389,2025-01-07,13:33:00,dry snacks,Dry,94,21 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,35.0,Pending,
+853,170,Harinakshi Patla,26.762652,75.800574,DON-1853,2025-01-15,09:45:00,Dal and roti,Water,24,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,23.0,In Progress,
+170,141,Bimala Yogi,26.725135,75.891187,DON-1170,2025-01-18,15:38:00,Dal and roti,Water,35,22 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Pending,5 hours
+706,183,Chasmum Saha,26.770021,75.813332,DON-1706,2025-01-15,09:26:00,Barley Packets,Dry,91,2 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,35.0,Completed,3 hours
+141,39,Harsh Nadig,26.877666,75.723606,DON-1141,2025-01-19,16:23:00,Wheat flour and oil for rural areas,Water,74,16 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,34.0,In Progress,5 hours
+174,134,Hemang Solanki,26.859647,75.723973,DON-1174,2025-01-16,08:23:00,dry snacks,Dry,94,4 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,9.0,Pending,
+7,150,Ria Misra,26.702824,75.804095,DON-1007,2025-01-09,07:06:00,Barley Packets,Water,24,24 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,24.0,Pending,4 hours
+746,16,Samarth Mander,26.731557,75.882003,DON-1746,2025-01-23,14:58:00,Dal and roti,Water,40,1 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,28.0,Completed,
+479,101,Suhani Anand,26.763429,75.750599,DON-1479,2025-01-03,15:33:00,Dal and roti,Dry,84,24 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,24.0,Completed,
+74,65,Eta Bajaj,26.78673,75.71127,DON-1074,2025-01-29,16:15:00,Flour and pulses,Dry,29,22 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,Completed,4 hours
+911,60,Tarak Bains,26.714342,75.746647,DON-1911,2025-01-18,14:29:00,Oats,Dry,95,17 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,16.0,In Progress,5 hours
+814,184,Gaurangi Sarkar,26.830652,75.708907,DON-1814,2025-01-18,07:57:00,Dal and roti,Water,56,21 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,28.0,Pending,2 hours
+239,83,Gavin Murthy,26.760157,75.761158,DON-1239,2025-01-24,19:39:00,Vegetable,Water,90,17 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,4 hours
+146,75,Yauvani Bava,26.856871,75.706954,DON-1146,2025-01-02,19:44:00,Oats,Dry,90,6 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,20.0,In Progress,
+793,77,Manan Sheth,26.781223,75.712436,DON-1793,2025-01-28,08:49:00,Vegetable,Water,13,14 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,,Completed,
+235,56,Hemani Wason,26.762944,75.778363,DON-1235,2025-01-01,12:37:00,Oats,Water,61,10 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,26.0,In Progress,4 hours
+221,87,Lila Maharaj,26.749056,75.831943,DON-1221,2025-01-29,12:22:00,Barley Packets,Dry,67,5 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,22.0,Completed,2 hours
+924,94,Jalsa Handa,26.769871,75.764742,DON-1924,2025-01-18,14:37:00,Flour and pulses,Dry,3,12 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,29.0,Completed,
+501,4,Sai Datta,26.803686,75.78704,DON-1501,2025-01-27,10:33:00,fruits,Dry,5,5 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,37.0,In Progress,4 hours
+133,99,Praneel Lalla,26.83885,75.857945,DON-1133,2025-01-19,15:43:00,Milk packets,Dry,61,7 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,3 hours
+991,54,Wriddhish Buch,26.880799,75.845664,DON-1991,2025-01-13,10:08:00,Barley Packets,Dry,33,7 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,9.0,In Progress,3 hours
+775,106,Qushi Krishnan,26.799568,75.878814,DON-1775,2025-01-30,09:18:00,dry snacks,Dry,81,14 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,10.0,Pending,
+186,200,Bhavani Sami,26.890664,75.751653,DON-1186,2025-01-01,09:27:00,Dal and roti,Dry,15,13 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,8.0,In Progress,
+42,182,Brijesh Misra,26.717143,75.735411,DON-1042,2025-01-03,13:15:00,fruits,Dry,47,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,36.0,Pending,3 hours
+697,98,Daksh Varghese,26.883906,75.78816,DON-1697,2025-01-10,09:36:00,fruits,Water,96,13 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,34.0,Pending,3 hours
+109,146,Girish Loyal,26.869622,75.827867,DON-1109,2025-01-27,09:35:00,Dal and roti,Dry,13,19 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,37.0,In Progress,4 hours
+589,131,Yachana Yadav,26.771896,75.848987,DON-1589,2025-01-15,09:55:00,Oats,Water,43,3 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,4.0,In Progress,
+57,21,Bhanumati Majumdar,26.717979,75.843459,DON-1057,2025-01-29,16:23:00,Oats,Water,29,17 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,3.0,In Progress,
+406,103,Tanveer Sheth,26.724473,75.767441,DON-1406,2025-01-17,12:04:00,Oats,Dry,8,5 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,46.0,Pending,2 hours
+443,29,Gautami Raja,26.848362,75.835266,DON-1443,2025-01-12,09:17:00,Flour and pulses,Dry,35,3 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,8.0,Completed,
+758,118,Patrick Handa,26.721593,75.766572,DON-1758,2025-01-07,13:24:00,fruits,Dry,17,18 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,Pending,4 hours
+998,138,Samaksh Sekhon,26.773096,75.719086,DON-1998,2025-01-06,10:36:00,Dal and roti,Water,96,22 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,16.0,Completed,4 hours
+25,107,Manthan Parsa,26.78287,75.798865,DON-1025,2025-01-11,14:48:00,Flour and pulses,Dry,72,2 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,33.0,Pending,1 hours
+468,81,Lakshit Magar,26.75003,75.833552,DON-1468,2025-01-25,11:49:00,Barley Packets,Dry,79,11 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,20.0,Pending,5 hours
+540,78,Lajita Bala,26.787715,75.859456,DON-1540,2025-01-08,09:34:00,rice,Dry,77,3 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,2.0,Pending,
+532,30,Michael Krish,26.7969,75.818032,DON-1532,2025-01-10,14:39:00,Flour and pulses,Water,98,5 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,13.0,Pending,1 hours
+619,134,Hemang Solanki,26.859647,75.723973,DON-1619,2025-01-03,16:03:00,Milk packets,Water,3,20 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,4.0,Completed,2 hours
+695,163,Omaja Khurana,26.722172,75.817344,DON-1695,2025-01-13,14:54:00,fruits,Water,27,24 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,42.0,Completed,2 hours
+927,171,Aditya Pillay,26.774651,75.847822,DON-1927,2025-01-05,14:22:00,Dal and roti,Water,5,12 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,10.0,In Progress,
+339,35,Omya Jani,26.821185,75.898752,DON-1339,2025-01-30,10:33:00,rice,Water,87,23 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,25.0,In Progress,
+52,10,Guneet Khosla,26.802414,75.891045,DON-1052,2025-01-26,08:25:00,rice,Water,98,19 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,30.0,Pending,
+508,96,Yochana Raghavan,26.759482,75.829549,DON-1508,2025-01-24,08:19:00,Flour and pulses,Water,30,9 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,23.0,Pending,2 hours
+517,100,Aayush Sekhon,26.731639,75.823248,DON-1517,2025-01-12,08:22:00,Oats,Dry,54,1 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,32.0,In Progress,3 hours
+921,34,Hredhaan Pai,26.786442,75.861936,DON-1921,2025-01-04,13:33:00,Flour and pulses,Water,22,6 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,38.0,Completed,
+782,101,Suhani Anand,26.763429,75.750599,DON-1782,2025-01-07,17:38:00,Oats,Dry,67,16 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,Completed,2 hours
+265,125,Amol Dua,26.792936,75.867675,DON-1265,2025-01-15,08:25:00,Barley Packets,Dry,51,19 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,19.0,In Progress,5 hours
+818,76,Reyansh Roy,26.852432,75.718702,DON-1818,2025-01-27,08:19:00,Oats,Dry,62,10 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,48.0,Pending,2 hours
+711,57,Leela Chander,26.885541,75.83117,DON-1711,2025-01-30,18:22:00,Barley Packets,Water,98,19 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,2.0,In Progress,5 hours
+683,102,Dominic Warrior,26.85062,75.881819,DON-1683,2025-01-01,16:49:00,Oats,Water,53,21 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,34.0,Pending,
+833,122,Zayyan Lal,26.794617,75.718491,DON-1833,2025-01-18,12:41:00,Wheat flour and oil for rural areas,Dry,4,8 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,Completed,
+519,83,Gavin Murthy,26.760157,75.761158,DON-1519,2025-01-11,13:02:00,Flour and pulses,Dry,49,14 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,24.0,Pending,
+448,86,Kritika Rege,26.816809,75.734132,DON-1448,2025-01-14,08:06:00,fruits,Water,63,8 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,In Progress,2 hours
+19,154,Aachal Sur,26.851124,75.746106,DON-1019,2025-01-21,08:52:00,Flour and pulses,Dry,9,21 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,6.0,In Progress,1 hours
+716,168,Vamakshi Choudhury,26.769191,75.873895,DON-1716,2025-01-01,07:29:00,Oats,Water,66,9 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,5.0,Completed,5 hours
+484,13,Ijaya Kalla,26.821349,75.784117,DON-1484,2025-01-25,12:45:00,rice,Dry,26,2 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,17.0,Pending,2 hours
+569,123,Priya De,26.853885,75.8277,DON-1569,2025-01-26,10:05:00,Barley Packets,Dry,68,4 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,28.0,Pending,2 hours
+434,119,Neelima Loke,26.71516,75.826112,DON-1434,2025-01-17,07:07:00,rice,Dry,15,5 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,23.0,Pending,3 hours
+368,175,Vaishnavi Sani,26.890403,75.848641,DON-1368,2025-01-23,14:46:00,Milk packets,Water,34,2 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,17.0,Pending,4 hours
+84,92,Robert Sood,26.820636,75.834468,DON-1084,2025-01-13,07:33:00,Oats,Dry,35,4 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,27.0,Completed,3 hours
+62,103,Tanveer Sheth,26.724473,75.767441,DON-1062,2025-01-27,14:11:00,dry snacks,Dry,54,9 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,3.0,In Progress,2 hours
+639,152,Vamakshi Kurian,26.708665,75.832188,DON-1639,2025-01-02,11:37:00,Oats,Dry,21,6 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,In Progress,5 hours
+273,180,Zaitra Madan,26.828823,75.828721,DON-1273,2025-01-05,15:12:00,Vegetable,Water,60,5 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,Pending,5 hours
+286,29,Gautami Raja,26.848362,75.835266,DON-1286,2025-01-20,14:17:00,Milk packets,Water,18,7 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,34.0,Completed,
+361,32,Praneel Nayar,26.818009,75.750065,DON-1361,2025-01-09,14:49:00,Oats,Water,19,10 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,21.0,In Progress,1 hours
+355,88,Januja Kalla,26.830221,75.787392,DON-1355,2025-01-25,13:47:00,Oats,Water,23,5 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,Completed,3 hours
+457,93,Bina Jayaraman,26.739237,75.715902,DON-1457,2025-01-07,09:48:00,fruits,Water,59,12 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,34.0,Pending,
+279,192,Diya Goswami,26.863776,75.740527,DON-1279,2025-01-20,07:46:00,fruits,Dry,48,15 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,41.0,Pending,1 hours
+13,77,Manan Sheth,26.781223,75.712436,DON-1013,2025-01-12,09:09:00,rice,Dry,44,8 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,23.0,In Progress,1 hours
+183,158,Chameli Date,26.701921,75.86575,DON-1183,2025-01-23,14:44:00,Oats,Dry,10,17 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,29.0,Completed,5 hours
+369,17,Yatan Shetty,26.751559,75.7764,DON-1369,2025-01-04,12:13:00,Milk packets,Water,94,4 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,5.0,In Progress,1 hours
+882,156,Meera Grewal,26.726773,75.897813,DON-1882,2025-01-01,17:12:00,Dal and roti,Water,91,14 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,11.0,Completed,
+616,175,Vaishnavi Sani,26.890403,75.848641,DON-1616,2025-01-06,08:45:00,rice,Dry,76,5 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,41.0,Pending,5 hours
+224,133,Jagvi Mital,26.737567,75.852215,DON-1224,2025-01-13,13:52:00,Milk packets,Water,26,6 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,11.0,In Progress,
+573,114,Yash Patla,26.872962,75.785411,DON-1573,2025-01-25,08:48:00,Wheat flour and oil for rural areas,Dry,13,10 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,1.0,In Progress,2 hours
+971,36,Charles Varty,26.863621,75.738969,DON-1971,2025-01-02,11:13:00,Flour and pulses,Water,4,22 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,14.0,Completed,2 hours
+654,80,Pallavi Maharaj,26.868977,75.732443,DON-1654,2025-01-22,19:14:00,Oats,Water,95,7 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,In Progress,3 hours
+546,198,Tarak Dayal,26.892582,75.723841,DON-1546,2025-01-01,08:32:00,Vegetable,Water,29,1 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,39.0,Pending,3 hours
+583,142,Ronith Modi,26.86912,75.703609,DON-1583,2025-01-19,13:47:00,fruits,Water,82,24 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,In Progress,4 hours
+634,20,Vamakshi Bajwa,26.850124,75.701205,DON-1634,2025-01-16,09:33:00,Flour and pulses,Dry,45,3 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Completed,1 hours
+177,130,Yamini Dash,26.854526,75.811344,DON-1177,2025-01-02,14:44:00,fruits,Water,51,20 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,37.0,Completed,
+666,66,Abeer Saran,26.742704,75.729659,DON-1666,2025-01-11,09:31:00,Barley Packets,Water,17,19 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,12.0,In Progress,
+674,55,Samesh Upadhyay,26.755705,75.767408,DON-1674,2025-01-13,13:08:00,Milk packets,Dry,46,20 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,14.0,Pending,4 hours
+586,77,Manan Sheth,26.781223,75.712436,DON-1586,2025-01-18,17:10:00,dry snacks,Water,55,8 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,,In Progress,
+874,92,Robert Sood,26.820636,75.834468,DON-1874,2025-01-26,18:02:00,Oats,Dry,28,15 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,28.0,Pending,3 hours
+394,98,Daksh Varghese,26.883906,75.78816,DON-1394,2025-01-09,09:35:00,Dal and roti,Dry,53,12 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,Pending,
+164,112,Amruta Chand,26.874501,75.859644,DON-1164,2025-01-15,19:20:00,Wheat flour and oil for rural areas,Dry,33,13 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,1.0,Pending,
+249,36,Charles Varty,26.863621,75.738969,DON-1249,2025-01-02,18:01:00,Flour and pulses,Dry,67,13 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Completed,5 hours
+635,111,Odika Venkataraman,26.828806,75.824745,DON-1635,2025-01-28,09:37:00,rice,Water,57,17 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Pending,
+886,97,Chaaya Pai,26.732239,75.702748,DON-1886,2025-01-06,12:50:00,Dal and roti,Water,17,8 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,42.0,In Progress,
+670,110,Hritik Chowdhury,26.754694,75.767868,DON-1670,2025-01-03,07:12:00,Vegetable,Water,12,16 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,4.0,Completed,
+376,65,Eta Bajaj,26.78673,75.71127,DON-1376,2025-01-01,17:09:00,dry snacks,Dry,45,19 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,40.0,Completed,5 hours
+413,147,Nirja Chandra,26.784014,75.854785,DON-1413,2025-01-09,11:26:00,dry snacks,Water,84,4 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,31.0,In Progress,
+75,85,Vaishnavi Kakar,26.889775,75.865199,DON-1075,2025-01-25,15:35:00,Milk packets,Water,75,21 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,42.0,In Progress,
+114,116,Amara Mannan,26.891738,75.837802,DON-1114,2025-01-10,18:35:00,Flour and pulses,Water,24,23 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,3.0,In Progress,1 hours
+599,31,Ishwar Kala,26.778645,75.835654,DON-1599,2025-01-13,12:54:00,fruits,Dry,52,17 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,14.0,Pending,
+962,94,Jalsa Handa,26.769871,75.764742,DON-1962,2025-01-02,09:38:00,fruits,Dry,90,18 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,35.0,In Progress,4 hours
+391,198,Tarak Dayal,26.892582,75.723841,DON-1391,2025-01-20,10:41:00,Vegetable,Dry,58,11 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,14.0,Pending,3 hours
+105,46,Varenya Nayak,26.873089,75.773779,DON-1105,2025-01-13,16:38:00,Flour and pulses,Water,86,9 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,13.0,Pending,2 hours
+115,187,Ati Kohli,26.869059,75.753208,DON-1115,2025-01-18,08:34:00,Vegetable,Dry,49,17 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,44.0,Completed,1 hours
+418,14,Girindra Kapoor,26.812166,75.808842,DON-1418,2025-01-09,10:41:00,dry snacks,Dry,30,23 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,Completed,
+526,84,Chasmum Gala,26.778928,75.808547,DON-1526,2025-01-30,15:39:00,Dal and roti,Dry,79,10 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,38.0,In Progress,4 hours
+458,69,Warjas Virk,26.885834,75.776409,DON-1458,2025-01-08,13:24:00,Dal and roti,Water,40,15 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,In Progress,1 hours
+410,15,Yatan Bobal,26.787137,75.713336,DON-1410,2025-01-15,19:27:00,Barley Packets,Water,32,14 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,10.0,Pending,5 hours
+93,135,Jairaj Atwal,26.727805,75.715405,DON-1093,2025-01-03,14:03:00,Milk packets,Dry,6,22 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,28.0,Pending,
+931,40,Agastya Ramesh,26.72999,75.828707,DON-1931,2025-01-11,16:07:00,Milk packets,Dry,94,22 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,14.0,Completed,3 hours
+90,28,Vrinda Goda,26.719822,75.885127,DON-1090,2025-01-07,11:36:00,Flour and pulses,Water,89,3 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,37.0,In Progress,3 hours
+337,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1337,2025-01-12,13:02:00,dry snacks,Dry,19,14 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,45.0,In Progress,3 hours
+989,32,Praneel Nayar,26.818009,75.750065,DON-1989,2025-01-09,08:02:00,Milk packets,Water,89,20 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,47.0,Completed,
+922,69,Warjas Virk,26.885834,75.776409,DON-1922,2025-01-24,14:01:00,Wheat flour and oil for rural areas,Water,1,2 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,11.0,Pending,2 hours
+934,56,Hemani Wason,26.762944,75.778363,DON-1934,2025-01-09,07:33:00,rice,Dry,58,15 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,34.0,In Progress,4 hours
+606,78,Lajita Bala,26.787715,75.859456,DON-1606,2025-01-09,19:10:00,Flour and pulses,Dry,9,4 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,46.0,Pending,4 hours
+594,190,Laban Gole,26.802694,75.824145,DON-1594,2025-01-04,16:49:00,Flour and pulses,Dry,25,22 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,Pending,
+612,39,Harsh Nadig,26.877666,75.723606,DON-1612,2025-01-25,12:57:00,Milk packets,Dry,88,17 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,33.0,Pending,5 hours
+95,60,Tarak Bains,26.714342,75.746647,DON-1095,2025-01-08,08:38:00,Flour and pulses,Water,86,17 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,13.0,In Progress,4 hours
+12,190,Laban Gole,26.802694,75.824145,DON-1012,2025-01-07,11:14:00,fruits,Water,45,7 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,Completed,1 hours
+397,26,Umang Pradhan,26.759358,75.815687,DON-1397,2025-01-12,10:13:00,rice,Water,22,21 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Pending,5 hours
+534,101,Suhani Anand,26.763429,75.750599,DON-1534,2025-01-09,10:43:00,Dal and roti,Water,30,17 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,36.0,Pending,3 hours
+44,34,Hredhaan Pai,26.786442,75.861936,DON-1044,2025-01-14,09:11:00,dry snacks,Dry,93,9 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,6.0,In Progress,
+43,134,Hemang Solanki,26.859647,75.723973,DON-1043,2025-01-09,14:26:00,Wheat flour and oil for rural areas,Water,70,24 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,41.0,In Progress,1 hours
+330,16,Samarth Mander,26.731557,75.882003,DON-1330,2025-01-08,07:28:00,fruits,Water,84,10 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,13.0,Completed,3 hours
+168,198,Tarak Dayal,26.892582,75.723841,DON-1168,2025-01-18,14:28:00,dry snacks,Dry,64,5 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,27.0,Pending,3 hours
+498,165,Vedant Kale,26.806082,75.883446,DON-1498,2025-01-15,07:34:00,Milk packets,Water,89,3 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,48.0,In Progress,2 hours
+877,169,Timothy Wadhwa,26.746287,75.850718,DON-1877,2025-01-14,17:25:00,Barley Packets,Water,54,22 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,45.0,In Progress,
+598,145,Ansh Manda,26.709956,75.77625,DON-1598,2025-01-30,11:52:00,Vegetable,Dry,36,3 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,19.0,Completed,
+757,161,Fariq Som,26.827995,75.76684,DON-1757,2025-01-26,15:14:00,Flour and pulses,Water,23,18 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,48.0,Completed,
+101,59,Azad Nadig,26.855899,75.885136,DON-1101,2025-01-01,14:37:00,fruits,Dry,26,14 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,24.0,Pending,1 hours
+427,150,Ria Misra,26.702824,75.804095,DON-1427,2025-01-01,15:12:00,Milk packets,Water,81,19 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,21.0,Completed,4 hours
+179,11,Anthony Nagy,26.793164,75.811186,DON-1179,2025-01-01,18:14:00,Dal and roti,Water,62,14 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,22.0,Completed,
+445,28,Vrinda Goda,26.719822,75.885127,DON-1445,2025-01-16,14:36:00,Vegetable,Water,18,12 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,41.0,Completed,2 hours
+417,186,Chakrika Dubey,26.848795,75.860781,DON-1417,2025-01-29,15:21:00,dry snacks,Water,84,12 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,50.0,Completed,2 hours
+871,28,Vrinda Goda,26.719822,75.885127,DON-1871,2025-01-16,17:41:00,Wheat flour and oil for rural areas,Dry,29,8 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,9.0,Pending,4 hours
+883,181,Mohammed Narayan,26.871337,75.709616,DON-1883,2025-01-24,17:33:00,Vegetable,Water,36,3 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,34.0,Completed,5 hours
+681,122,Zayyan Lal,26.794617,75.718491,DON-1681,2025-01-26,15:17:00,Oats,Water,53,22 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,36.0,In Progress,
+178,105,Ojas Rau,26.841649,75.785048,DON-1178,2025-01-13,17:03:00,rice,Water,99,21 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,8.0,Completed,1 hours
+396,48,Udarsh Upadhyay,26.70587,75.887977,DON-1396,2025-01-09,18:36:00,rice,Water,38,19 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,37.0,Pending,4 hours
+912,31,Ishwar Kala,26.778645,75.835654,DON-1912,2025-01-26,15:38:00,rice,Water,78,16 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,49.0,Completed,4 hours
+794,55,Samesh Upadhyay,26.755705,75.767408,DON-1794,2025-01-08,16:00:00,rice,Dry,50,21 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,45.0,Pending,2 hours
+961,100,Aayush Sekhon,26.731639,75.823248,DON-1961,2025-01-28,11:58:00,Milk packets,Dry,32,4 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Pending,5 hours
+685,59,Azad Nadig,26.855899,75.885136,DON-1685,2025-01-26,07:49:00,Barley Packets,Water,9,4 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,5.0,Completed,1 hours
+384,187,Ati Kohli,26.869059,75.753208,DON-1384,2025-01-25,08:48:00,Vegetable,Water,24,8 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,27.0,Completed,4 hours
+957,41,Dayamai Saini,26.79009,75.863915,DON-1957,2025-01-24,10:11:00,dry snacks,Water,81,19 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,
+752,91,Kashish Goda,26.722831,75.701591,DON-1752,2025-01-01,18:10:00,Oats,Water,68,2 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,47.0,In Progress,
+258,179,Adweta Ganguly,26.856185,75.791334,DON-1258,2025-01-30,09:47:00,rice,Dry,97,5 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,29.0,Pending,1 hours
+539,106,Qushi Krishnan,26.799568,75.878814,DON-1539,2025-01-13,08:17:00,Milk packets,Water,79,1 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,50.0,Completed,5 hours
+336,99,Praneel Lalla,26.83885,75.857945,DON-1336,2025-01-26,15:54:00,Dal and roti,Water,57,19 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,23.0,Pending,3 hours
+16,189,Saksham Dara,26.766417,75.833211,DON-1016,2025-01-06,10:58:00,Flour and pulses,Water,85,1 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,10.0,In Progress,4 hours
+325,36,Charles Varty,26.863621,75.738969,DON-1325,2025-01-26,17:15:00,dry snacks,Dry,43,9 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,42.0,In Progress,
+759,58,Leela Gala,26.875353,75.799436,DON-1759,2025-01-19,15:17:00,Barley Packets,Water,32,1 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Completed,1 hours
+223,155,Qushi Kala,26.739623,75.865617,DON-1223,2025-01-18,10:02:00,dry snacks,Dry,17,3 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,In Progress,
+180,161,Fariq Som,26.827995,75.76684,DON-1180,2025-01-29,16:43:00,Flour and pulses,Water,3,16 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,26.0,Pending,1 hours
+984,56,Hemani Wason,26.762944,75.778363,DON-1984,2025-01-25,12:28:00,dry snacks,Dry,16,7 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,24.0,Pending,2 hours
+23,68,Gautam Dass,26.768658,75.841597,DON-1023,2025-01-13,16:28:00,rice,Dry,8,9 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,In Progress,5 hours
+357,59,Azad Nadig,26.855899,75.885136,DON-1357,2025-01-18,11:34:00,Oats,Dry,6,6 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,32.0,Completed,
+667,21,Bhanumati Majumdar,26.717979,75.843459,DON-1667,2025-01-22,15:17:00,Barley Packets,Dry,100,13 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,31.0,Completed,
+862,105,Ojas Rau,26.841649,75.785048,DON-1862,2025-01-30,15:58:00,Milk packets,Water,66,5 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,44.0,Pending,3 hours
+341,47,Faraj Chopra,26.701914,75.711746,DON-1341,2025-01-29,17:17:00,fruits,Dry,37,7 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,21.0,Completed,
+432,61,Kamya Borah,26.708535,75.713344,DON-1432,2025-01-09,08:50:00,dry snacks,Water,95,3 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,23.0,In Progress,4 hours
+552,73,Jagdish Issac,26.849034,75.775013,DON-1552,2025-01-20,08:57:00,dry snacks,Water,29,7 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,12.0,Completed,
+834,196,Abeer Barad,26.740076,75.857549,DON-1834,2025-01-14,13:23:00,Flour and pulses,Water,42,21 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,39.0,Pending,
+204,31,Ishwar Kala,26.778645,75.835654,DON-1204,2025-01-20,13:33:00,Milk packets,Dry,92,23 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,5.0,Pending,1 hours
+631,85,Vaishnavi Kakar,26.889775,75.865199,DON-1631,2025-01-19,17:23:00,rice,Dry,73,12 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,15.0,In Progress,4 hours
+94,42,Ranbir Bala,26.703043,75.836002,DON-1094,2025-01-07,08:45:00,fruits,Water,6,8 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,21.0,Pending,
+559,166,Baljiwan Kade,26.832616,75.808507,DON-1559,2025-01-02,17:43:00,fruits,Dry,18,10 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,49.0,In Progress,5 hours
+69,184,Gaurangi Sarkar,26.830652,75.708907,DON-1069,2025-01-03,13:09:00,rice,Water,41,7 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,Completed,2 hours
+623,110,Hritik Chowdhury,26.754694,75.767868,DON-1623,2025-01-01,15:09:00,Milk packets,Dry,58,15 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Pending,4 hours
+285,53,Abeer Bhatia,26.774113,75.791696,DON-1285,2025-01-04,11:21:00,dry snacks,Water,72,6 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,In Progress,
+845,199,Eesha Bawa,26.838714,75.863655,DON-1845,2025-01-19,09:45:00,Dal and roti,Water,60,14 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,48.0,Pending,2 hours
+435,177,Raagini Bobal,26.848692,75.873076,DON-1435,2025-01-24,14:01:00,fruits,Water,57,8 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,20.0,In Progress,5 hours
+154,47,Faraj Chopra,26.701914,75.711746,DON-1154,2025-01-07,07:22:00,dry snacks,Water,20,17 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,33.0,In Progress,
+76,194,Yamini Setty,26.728363,75.763433,DON-1076,2025-01-18,13:35:00,Wheat flour and oil for rural areas,Water,41,12 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,14.0,Pending,5 hours
+731,187,Ati Kohli,26.869059,75.753208,DON-1731,2025-01-20,10:18:00,Oats,Dry,57,17 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,In Progress,4 hours
+447,27,Henry Radhakrishnan,26.833942,75.756539,DON-1447,2025-01-11,09:56:00,Dal and roti,Dry,78,11 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,5.0,Pending,4 hours
+189,161,Fariq Som,26.827995,75.76684,DON-1189,2025-01-29,19:44:00,Barley Packets,Water,2,8 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,47.0,In Progress,4 hours
+272,144,Pavani Mallick,26.769361,75.731242,DON-1272,2025-01-19,18:05:00,Barley Packets,Dry,49,13 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,,In Progress,2 hours
+237,163,Omaja Khurana,26.722172,75.817344,DON-1237,2025-01-14,16:19:00,Flour and pulses,Dry,91,14 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,17.0,Completed,1 hours
+488,163,Omaja Khurana,26.722172,75.817344,DON-1488,2025-01-11,17:51:00,Milk packets,Dry,4,11 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,18.0,Pending,4 hours
+118,183,Chasmum Saha,26.770021,75.813332,DON-1118,2025-01-12,17:28:00,Milk packets,Dry,49,19 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,39.0,Pending,2 hours
+944,155,Qushi Kala,26.739623,75.865617,DON-1944,2025-01-15,19:33:00,dry snacks,Water,20,1 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,16.0,Pending,2 hours
+513,164,Gaurav Char,26.748791,75.714016,DON-1513,2025-01-30,09:00:00,Vegetable,Water,88,4 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,35.0,Pending,3 hours
+826,84,Chasmum Gala,26.778928,75.808547,DON-1826,2025-01-08,08:56:00,Flour and pulses,Dry,74,3 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,33.0,Completed,
+592,16,Samarth Mander,26.731557,75.882003,DON-1592,2025-01-15,17:48:00,Flour and pulses,Dry,25,4 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,3.0,In Progress,1 hours
+127,155,Qushi Kala,26.739623,75.865617,DON-1127,2025-01-13,18:42:00,rice,Water,67,1 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Pending,4 hours
+117,58,Leela Gala,26.875353,75.799436,DON-1117,2025-01-01,17:51:00,fruits,Water,59,18 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,43.0,Pending,5 hours
+474,32,Praneel Nayar,26.818009,75.750065,DON-1474,2025-01-26,07:45:00,Barley Packets,Dry,18,16 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,23.0,Completed,5 hours
+694,126,Omaja Jayaraman,26.882616,75.875604,DON-1694,2025-01-01,19:45:00,Barley Packets,Water,46,11 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,3.0,Pending,
+58,197,Gagan Sheth,26.726849,75.855149,DON-1058,2025-01-09,18:00:00,Flour and pulses,Dry,92,8 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Completed,
+864,40,Agastya Ramesh,26.72999,75.828707,DON-1864,2025-01-03,11:59:00,Dal and roti,Water,82,18 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,19.0,Pending,
+913,57,Leela Chander,26.885541,75.83117,DON-1913,2025-01-21,15:44:00,Dal and roti,Dry,18,16 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,44.0,Completed,1 hours
+370,77,Manan Sheth,26.781223,75.712436,DON-1370,2025-01-25,09:25:00,fruits,Water,96,14 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,Pending,3 hours
+269,24,Damini Subramanian,26.890176,75.805074,DON-1269,2025-01-12,09:25:00,fruits,Water,54,8 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,43.0,In Progress,3 hours
+47,127,Omkaar Bhalla,26.837507,75.849418,DON-1047,2025-01-01,17:58:00,dry snacks,Dry,35,6 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,40.0,Pending,2 hours
+350,195,Sathvik Hans,26.707639,75.78968,DON-1350,2025-01-20,11:22:00,Oats,Dry,39,15 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,50.0,Completed,4 hours
+196,7,Kashvi Dayal,26.848638,75.826573,DON-1196,2025-01-14,10:04:00,Dal and roti,Dry,30,7 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,10.0,In Progress,2 hours
+1000,79,Chakrika Mukhopadhyay,26.797907,75.74848,DON-2000,2025-01-13,09:28:00,Milk packets,Water,36,3 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,17.0,Completed,
+835,22,Zehaan Khanna,26.800031,75.801223,DON-1835,2025-01-26,13:21:00,Milk packets,Water,94,7 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,Pending,5 hours
+737,109,Dev Hayer,26.805133,75.877656,DON-1737,2025-01-28,17:02:00,Oats,Dry,5,4 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,29.0,Pending,
+264,53,Abeer Bhatia,26.774113,75.791696,DON-1264,2025-01-19,09:39:00,Vegetable,Dry,2,21 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,22.0,Pending,2 hours
+444,62,Vedhika Kapoor,26.731938,75.817508,DON-1444,2025-01-28,13:52:00,Milk packets,Dry,75,1 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,35.0,Completed,
+676,89,Tripti Vora,26.797725,75.87516,DON-1676,2025-01-30,08:26:00,Barley Packets,Water,77,18 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,28.0,Pending,1 hours
+305,43,Mohini Nath,26.84628,75.811727,DON-1305,2025-01-30,18:19:00,fruits,Dry,62,14 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,24.0,Completed,
+342,56,Hemani Wason,26.762944,75.778363,DON-1342,2025-01-07,18:17:00,Barley Packets,Dry,31,15 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,7.0,In Progress,
+967,187,Ati Kohli,26.869059,75.753208,DON-1967,2025-01-22,07:33:00,dry snacks,Water,37,5 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,13.0,Pending,3 hours
+150,47,Faraj Chopra,26.701914,75.711746,DON-1150,2025-01-10,12:34:00,Milk packets,Water,50,22 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,15.0,Completed,1 hours
+125,7,Kashvi Dayal,26.848638,75.826573,DON-1125,2025-01-28,16:58:00,Vegetable,Water,87,10 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,46.0,Completed,1 hours
+787,143,Kala Pathak,26.8176,75.820411,DON-1787,2025-01-26,09:02:00,rice,Dry,49,19 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,49.0,Pending,4 hours
+51,45,Megha Shenoy,26.783394,75.81316,DON-1051,2025-01-20,14:47:00,Flour and pulses,Dry,83,23 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,28.0,In Progress,5 hours
+354,100,Aayush Sekhon,26.731639,75.823248,DON-1354,2025-01-06,07:14:00,Vegetable,Water,46,4 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,33.0,Completed,3 hours
+928,39,Harsh Nadig,26.877666,75.723606,DON-1928,2025-01-23,07:02:00,Barley Packets,Dry,25,3 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,48.0,Pending,3 hours
+143,191,Ucchal Varty,26.729859,75.842731,DON-1143,2025-01-02,16:20:00,Vegetable,Water,80,8 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,20.0,In Progress,
+471,139,Aarini Kakar,26.850323,75.879921,DON-1471,2025-01-10,10:59:00,Barley Packets,Dry,59,19 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,4 hours
+400,195,Sathvik Hans,26.707639,75.78968,DON-1400,2025-01-28,17:22:00,Wheat flour and oil for rural areas,Dry,7,8 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,46.0,Pending,1 hours
+626,34,Hredhaan Pai,26.786442,75.861936,DON-1626,2025-01-14,10:24:00,Vegetable,Water,90,24 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,47.0,Completed,1 hours
+321,170,Harinakshi Patla,26.762652,75.800574,DON-1321,2025-01-21,07:18:00,Oats,Dry,37,3 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,3.0,Pending,3 hours
+20,191,Ucchal Varty,26.729859,75.842731,DON-1020,2025-01-13,08:20:00,Dal and roti,Dry,71,10 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,43.0,In Progress,2 hours
+810,166,Baljiwan Kade,26.832616,75.808507,DON-1810,2025-01-26,18:08:00,dry snacks,Water,65,13 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,25.0,Pending,
+791,2,Tripti Bassi,26.727851,75.81268,DON-1791,2025-01-30,12:39:00,Dal and roti,Dry,28,4 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,36.0,In Progress,
+809,51,Rachita Sha,26.725445,75.837127,DON-1809,2025-01-15,13:48:00,fruits,Water,13,24 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,40.0,In Progress,4 hours
+408,114,Yash Patla,26.872962,75.785411,DON-1408,2025-01-13,15:39:00,fruits,Water,75,8 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,17.0,In Progress,
+538,138,Samaksh Sekhon,26.773096,75.719086,DON-1538,2025-01-01,18:11:00,Oats,Dry,51,20 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,39.0,Completed,3 hours
+621,95,Alexander Krishna,26.851451,75.897698,DON-1621,2025-01-14,10:20:00,dry snacks,Dry,34,18 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,1.0,Completed,1 hours
+39,110,Hritik Chowdhury,26.754694,75.767868,DON-1039,2025-01-08,11:51:00,fruits,Water,90,7 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,24.0,Pending,
+176,183,Chasmum Saha,26.770021,75.813332,DON-1176,2025-01-25,17:25:00,Milk packets,Water,64,15 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,,Pending,3 hours
+246,4,Sai Datta,26.803686,75.78704,DON-1246,2025-01-12,07:34:00,Oats,Dry,28,1 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,26.0,Completed,
+829,198,Tarak Dayal,26.892582,75.723841,DON-1829,2025-01-27,11:15:00,Dal and roti,Water,43,8 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,17.0,In Progress,
+668,28,Vrinda Goda,26.719822,75.885127,DON-1668,2025-01-10,17:55:00,rice,Water,91,6 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,In Progress,
+755,31,Ishwar Kala,26.778645,75.835654,DON-1755,2025-01-29,11:55:00,Oats,Dry,18,17 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,3.0,Pending,5 hours
+859,107,Manthan Parsa,26.78287,75.798865,DON-1859,2025-01-24,18:59:00,Milk packets,Dry,3,5 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,24.0,Completed,
+155,96,Yochana Raghavan,26.759482,75.829549,DON-1155,2025-01-30,08:59:00,Flour and pulses,Water,99,19 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,29.0,In Progress,3 hours
+288,89,Tripti Vora,26.797725,75.87516,DON-1288,2025-01-20,18:06:00,fruits,Water,54,19 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,23.0,In Progress,
+603,191,Ucchal Varty,26.729859,75.842731,DON-1603,2025-01-06,10:14:00,fruits,Dry,39,9 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,6.0,Pending,1 hours
+570,149,Daniel Babu,26.817914,75.810724,DON-1570,2025-01-11,17:30:00,Milk packets,Water,37,8 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,Completed,5 hours
+744,166,Baljiwan Kade,26.832616,75.808507,DON-1744,2025-01-13,15:59:00,dry snacks,Water,14,12 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,24.0,Pending,2 hours
+18,17,Yatan Shetty,26.751559,75.7764,DON-1018,2025-01-24,19:36:00,Vegetable,Dry,10,6 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,41.0,Completed,
+128,150,Ria Misra,26.702824,75.804095,DON-1128,2025-01-21,13:03:00,Wheat flour and oil for rural areas,Dry,74,14 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,Pending,1 hours
+323,36,Charles Varty,26.863621,75.738969,DON-1323,2025-01-13,16:06:00,Vegetable,Water,98,15 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,38.0,In Progress,1 hours
+256,14,Girindra Kapoor,26.812166,75.808842,DON-1256,2025-01-05,14:34:00,Milk packets,Water,83,8 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,25.0,Pending,2 hours
+658,136,Pallavi Kurian,26.752553,75.71014,DON-1658,2025-01-17,08:08:00,Oats,Dry,72,15 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,4.0,In Progress,4 hours
+965,82,Noah Raj,26.848809,75.867494,DON-1965,2025-01-13,16:32:00,Dal and roti,Water,86,24 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,In Progress,3 hours
+191,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1191,2025-01-27,15:08:00,Flour and pulses,Dry,79,1 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,21.0,Pending,
+116,193,Aachal Kamdar,26.818761,75.852758,DON-1116,2025-01-24,11:20:00,rice,Dry,64,11 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,21.0,Completed,2 hours
+617,37,Jackson Mall,26.750265,75.766778,DON-1617,2025-01-30,11:00:00,Flour and pulses,Dry,45,7 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,10.0,Completed,5 hours
+607,67,Kevin Bose,26.849168,75.819414,DON-1607,2025-01-18,07:36:00,Dal and roti,Dry,99,4 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,,Completed,
+181,54,Wriddhish Buch,26.880799,75.845664,DON-1181,2025-01-20,12:06:00,Flour and pulses,Dry,71,16 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,4 hours
+302,158,Chameli Date,26.701921,75.86575,DON-1302,2025-01-08,11:23:00,Dal and roti,Dry,57,19 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,7.0,In Progress,3 hours
+760,67,Kevin Bose,26.849168,75.819414,DON-1760,2025-01-14,12:54:00,rice,Water,34,5 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,2.0,Pending,5 hours
+713,115,Aachal D’Alia,26.878545,75.89746,DON-1713,2025-01-13,16:47:00,Milk packets,Dry,61,19 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Completed,4 hours
+724,74,Damini Dara,26.8442,75.756659,DON-1724,2025-01-18,07:38:00,Wheat flour and oil for rural areas,Water,90,9 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,32.0,In Progress,3 hours
+686,60,Tarak Bains,26.714342,75.746647,DON-1686,2025-01-08,18:32:00,Wheat flour and oil for rural areas,Dry,98,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,29.0,Pending,
+980,102,Dominic Warrior,26.85062,75.881819,DON-1980,2025-01-25,08:43:00,Vegetable,Dry,72,15 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,30.0,In Progress,1 hours
+518,60,Tarak Bains,26.714342,75.746647,DON-1518,2025-01-02,09:15:00,rice,Dry,73,10 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,3.0,Completed,
+985,111,Odika Venkataraman,26.828806,75.824745,DON-1985,2025-01-10,11:01:00,rice,Water,54,4 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,6.0,In Progress,2 hours
+46,67,Kevin Bose,26.849168,75.819414,DON-1046,2025-01-20,18:07:00,Barley Packets,Dry,64,7 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,30.0,Pending,4 hours
+910,7,Kashvi Dayal,26.848638,75.826573,DON-1910,2025-01-04,07:08:00,fruits,Dry,53,14 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,16.0,Completed,
+158,185,Dakshesh Kakar,26.744898,75.706815,DON-1158,2025-01-25,14:53:00,fruits,Water,10,3 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,47.0,Completed,5 hours
+852,131,Yachana Yadav,26.771896,75.848987,DON-1852,2025-01-02,07:35:00,Oats,Dry,34,9 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,9.0,Pending,
+172,17,Yatan Shetty,26.751559,75.7764,DON-1172,2025-01-23,09:25:00,rice,Water,71,11 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,36.0,Pending,3 hours
+17,190,Laban Gole,26.802694,75.824145,DON-1017,2025-01-23,09:57:00,Oats,Water,68,24 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,49.0,In Progress,1 hours
+512,126,Omaja Jayaraman,26.882616,75.875604,DON-1512,2025-01-10,18:05:00,Vegetable,Water,88,7 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,12.0,Completed,1 hours
+49,2,Tripti Bassi,26.727851,75.81268,DON-1049,2025-01-09,12:30:00,Wheat flour and oil for rural areas,Water,23,13 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,22.0,Pending,
+972,119,Neelima Loke,26.71516,75.826112,DON-1972,2025-01-16,13:09:00,Flour and pulses,Dry,74,4 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,43.0,In Progress,1 hours
+941,152,Vamakshi Kurian,26.708665,75.832188,DON-1941,2025-01-13,08:33:00,Oats,Dry,2,5 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,In Progress,5 hours
+516,195,Sathvik Hans,26.707639,75.78968,DON-1516,2025-01-15,11:09:00,rice,Dry,10,13 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,Completed,
+953,67,Kevin Bose,26.849168,75.819414,DON-1953,2025-01-07,17:15:00,Wheat flour and oil for rural areas,Water,79,15 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,50.0,In Progress,5 hours
+481,69,Warjas Virk,26.885834,75.776409,DON-1481,2025-01-05,15:40:00,Oats,Water,70,16 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,17.0,Pending,5 hours
+284,13,Ijaya Kalla,26.821349,75.784117,DON-1284,2025-01-18,09:07:00,rice,Dry,54,12 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Completed,3 hours
+719,28,Vrinda Goda,26.719822,75.885127,DON-1719,2025-01-02,12:24:00,fruits,Water,28,1 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,In Progress,2 hours
+878,103,Tanveer Sheth,26.724473,75.767441,DON-1878,2025-01-17,17:25:00,Flour and pulses,Dry,24,13 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,41.0,Completed,2 hours
+226,28,Vrinda Goda,26.719822,75.885127,DON-1226,2025-01-12,07:13:00,Dal and roti,Dry,28,10 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,28.0,Completed,4 hours
+27,122,Zayyan Lal,26.794617,75.718491,DON-1027,2025-01-03,15:03:00,Dal and roti,Water,38,19 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,13.0,In Progress,1 hours
+955,29,Gautami Raja,26.848362,75.835266,DON-1955,2025-01-25,13:43:00,Dal and roti,Dry,49,14 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,35.0,Pending,2 hours
+438,23,Imaran Agrawal,26.843395,75.719411,DON-1438,2025-01-08,12:28:00,Oats,Dry,37,24 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,In Progress,4 hours
+952,106,Qushi Krishnan,26.799568,75.878814,DON-1952,2025-01-12,11:38:00,Barley Packets,Dry,46,16 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,32.0,Completed,4 hours
+365,179,Adweta Ganguly,26.856185,75.791334,DON-1365,2025-01-19,10:31:00,Flour and pulses,Water,91,6 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Pending,2 hours
+230,5,Rajata Prashad,26.747319,75.736452,DON-1230,2025-01-28,12:07:00,dry snacks,Water,85,4 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,44.0,Completed,
+38,25,Odika Lad,26.895331,75.776957,DON-1038,2025-01-04,09:11:00,rice,Water,75,20 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,1.0,Pending,3 hours
+966,49,Hemang Devan,26.895605,75.703908,DON-1966,2025-01-05,15:33:00,fruits,Water,70,2 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,32.0,Pending,
+375,72,Vrinda Bera,26.740522,75.836951,DON-1375,2025-01-09,13:20:00,rice,Water,8,15 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,1.0,In Progress,5 hours
+470,168,Vamakshi Choudhury,26.769191,75.873895,DON-1470,2025-01-09,18:21:00,Dal and roti,Dry,4,23 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,45.0,Completed,2 hours
+968,91,Kashish Goda,26.722831,75.701591,DON-1968,2025-01-02,19:32:00,fruits,Dry,7,6 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,1.0,Completed,
+851,125,Amol Dua,26.792936,75.867675,DON-1851,2025-01-21,14:16:00,Milk packets,Dry,3,8 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,40.0,Completed,4 hours
+705,69,Warjas Virk,26.885834,75.776409,DON-1705,2025-01-08,13:32:00,rice,Water,53,21 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,28.0,In Progress,
+842,29,Gautami Raja,26.848362,75.835266,DON-1842,2025-01-10,09:22:00,Wheat flour and oil for rural areas,Dry,37,15 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,16.0,Completed,4 hours
+195,1,Janya Khalsa,26.878119,75.782802,DON-1195,2025-01-20,08:48:00,Wheat flour and oil for rural areas,Dry,63,20 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,4.0,Pending,5 hours
+855,170,Harinakshi Patla,26.762652,75.800574,DON-1855,2025-01-07,19:49:00,Vegetable,Water,35,6 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,24.0,Pending,4 hours
+865,196,Abeer Barad,26.740076,75.857549,DON-1865,2025-01-29,09:58:00,dry snacks,Water,94,10 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,,Pending,3 hours
+504,105,Ojas Rau,26.841649,75.785048,DON-1504,2025-01-19,09:02:00,dry snacks,Water,28,4 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,10.0,Completed,1 hours
+970,159,Ojasvi Gara,26.890661,75.745643,DON-1970,2025-01-01,10:11:00,Vegetable,Dry,16,7 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,16.0,In Progress,4 hours
+831,175,Vaishnavi Sani,26.890403,75.848641,DON-1831,2025-01-26,13:05:00,fruits,Water,17,15 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,40.0,Pending,
+580,148,Advaith Ben,26.715782,75.735698,DON-1580,2025-01-04,16:28:00,Wheat flour and oil for rural areas,Dry,30,18 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,,Completed,1 hours
+969,163,Omaja Khurana,26.722172,75.817344,DON-1969,2025-01-26,14:41:00,Vegetable,Water,4,18 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,50.0,Completed,3 hours
+163,159,Ojasvi Gara,26.890661,75.745643,DON-1163,2025-01-01,16:51:00,Wheat flour and oil for rural areas,Dry,25,23 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,13.0,Completed,4 hours
+909,198,Tarak Dayal,26.892582,75.723841,DON-1909,2025-01-10,11:23:00,Milk packets,Dry,100,24 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,45.0,In Progress,2 hours
+153,87,Lila Maharaj,26.749056,75.831943,DON-1153,2025-01-09,10:27:00,Wheat flour and oil for rural areas,Water,30,20 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,41.0,Completed,2 hours
+802,148,Advaith Ben,26.715782,75.735698,DON-1802,2025-01-29,07:54:00,fruits,Water,81,2 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,24.0,Completed,4 hours
+994,127,Omkaar Bhalla,26.837507,75.849418,DON-1994,2025-01-30,10:21:00,Vegetable,Water,69,3 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,29.0,Completed,4 hours
+756,168,Vamakshi Choudhury,26.769191,75.873895,DON-1756,2025-01-14,19:40:00,Vegetable,Dry,46,9 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,13.0,Pending,
+112,189,Saksham Dara,26.766417,75.833211,DON-1112,2025-01-25,15:54:00,rice,Water,53,8 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,48.0,In Progress,3 hours
+227,108,Amaira Chhabra,26.811278,75.841523,DON-1227,2025-01-15,13:46:00,Vegetable,Dry,93,9 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,12.0,Completed,3 hours
+689,8,Luke Prabhu,26.751346,75.860503,DON-1689,2025-01-09,09:28:00,Barley Packets,Dry,6,24 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,30.0,Completed,3 hours
+104,158,Chameli Date,26.701921,75.86575,DON-1104,2025-01-21,19:55:00,Wheat flour and oil for rural areas,Dry,74,15 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,37.0,In Progress,1 hours
+422,76,Reyansh Roy,26.852432,75.718702,DON-1422,2025-01-17,11:06:00,fruits,Water,93,20 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,37.0,Pending,
+420,69,Warjas Virk,26.885834,75.776409,DON-1420,2025-01-02,16:32:00,Milk packets,Water,92,9 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,41.0,Completed,
+751,115,Aachal D’Alia,26.878545,75.89746,DON-1751,2025-01-29,16:23:00,rice,Dry,66,15 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,40.0,Pending,1 hours
+587,64,Ladli Tak,26.854037,75.738649,DON-1587,2025-01-24,07:44:00,Wheat flour and oil for rural areas,Water,99,13 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Pending,2 hours
+781,13,Ijaya Kalla,26.821349,75.784117,DON-1781,2025-01-23,18:14:00,Vegetable,Water,50,17 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,6.0,In Progress,5 hours
+673,122,Zayyan Lal,26.794617,75.718491,DON-1673,2025-01-24,09:05:00,Flour and pulses,Dry,36,12 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,42.0,Completed,
+120,107,Manthan Parsa,26.78287,75.798865,DON-1120,2025-01-06,08:09:00,dry snacks,Dry,37,7 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,49.0,Completed,
+54,111,Odika Venkataraman,26.828806,75.824745,DON-1054,2025-01-05,13:57:00,rice,Dry,80,6 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,22.0,In Progress,2 hours
+152,133,Jagvi Mital,26.737567,75.852215,DON-1152,2025-01-14,15:37:00,Oats,Water,51,20 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,27.0,In Progress,
+404,189,Saksham Dara,26.766417,75.833211,DON-1404,2025-01-21,13:03:00,Flour and pulses,Water,47,7 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,In Progress,
+946,121,Falguni Magar,26.84116,75.709804,DON-1946,2025-01-05,19:55:00,dry snacks,Dry,9,23 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,28.0,In Progress,2 hours
+208,106,Qushi Krishnan,26.799568,75.878814,DON-1208,2025-01-19,12:34:00,Flour and pulses,Water,39,22 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,5.0,In Progress,
+659,70,Vidhi Dhingra,26.822678,75.876357,DON-1659,2025-01-09,16:39:00,Wheat flour and oil for rural areas,Dry,51,21 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,25.0,Completed,2 hours
+844,69,Warjas Virk,26.885834,75.776409,DON-1844,2025-01-15,13:18:00,Milk packets,Water,46,21 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,20.0,Completed,
+763,137,Advik Garde,26.706588,75.712096,DON-1763,2025-01-17,11:52:00,Flour and pulses,Dry,6,12 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,32.0,Completed,2 hours
+9,16,Samarth Mander,26.731557,75.882003,DON-1009,2025-01-25,07:03:00,dry snacks,Dry,16,4 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,19.0,In Progress,1 hours
+808,67,Kevin Bose,26.849168,75.819414,DON-1808,2025-01-03,07:09:00,Vegetable,Dry,47,11 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Completed,4 hours
+37,116,Amara Mannan,26.891738,75.837802,DON-1037,2025-01-20,15:58:00,Flour and pulses,Water,22,13 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,18.0,Completed,1 hours
+453,162,Chaitanya Dora,26.881705,75.767039,DON-1453,2025-01-09,19:27:00,Flour and pulses,Dry,17,18 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,36.0,Pending,
+652,86,Kritika Rege,26.816809,75.734132,DON-1652,2025-01-18,15:24:00,Wheat flour and oil for rural areas,Water,21,16 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,40.0,In Progress,1 hours
+254,75,Yauvani Bava,26.856871,75.706954,DON-1254,2025-01-15,19:03:00,Barley Packets,Water,82,5 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,In Progress,1 hours
+304,198,Tarak Dayal,26.892582,75.723841,DON-1304,2025-01-14,11:29:00,rice,Dry,50,9 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,19.0,In Progress,
+747,101,Suhani Anand,26.763429,75.750599,DON-1747,2025-01-20,16:11:00,dry snacks,Water,23,7 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,42.0,Completed,3 hours
+572,161,Fariq Som,26.827995,75.76684,DON-1572,2025-01-27,13:01:00,Milk packets,Dry,29,17 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,45.0,Completed,5 hours
+624,147,Nirja Chandra,26.784014,75.854785,DON-1624,2025-01-28,09:06:00,Dal and roti,Water,99,3 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,47.0,Completed,
+733,111,Odika Venkataraman,26.828806,75.824745,DON-1733,2025-01-10,08:17:00,rice,Water,86,19 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,11.0,Pending,
+892,177,Raagini Bobal,26.848692,75.873076,DON-1892,2025-01-11,16:05:00,Barley Packets,Dry,66,18 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,7.0,Pending,
+263,91,Kashish Goda,26.722831,75.701591,DON-1263,2025-01-18,18:29:00,Oats,Dry,6,22 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,26.0,Completed,5 hours
+611,133,Jagvi Mital,26.737567,75.852215,DON-1611,2025-01-20,11:10:00,Milk packets,Dry,44,15 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,28.0,Completed,1 hours
+298,102,Dominic Warrior,26.85062,75.881819,DON-1298,2025-01-06,14:00:00,rice,Water,2,11 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,39.0,Pending,5 hours
+415,43,Mohini Nath,26.84628,75.811727,DON-1415,2025-01-11,17:16:00,Oats,Dry,66,14 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,15.0,In Progress,2 hours
+151,10,Guneet Khosla,26.802414,75.891045,DON-1151,2025-01-15,14:23:00,Barley Packets,Water,68,12 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,17.0,In Progress,
+789,136,Pallavi Kurian,26.752553,75.71014,DON-1789,2025-01-21,18:52:00,dry snacks,Dry,33,24 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,3.0,Pending,
+641,181,Mohammed Narayan,26.871337,75.709616,DON-1641,2025-01-04,13:21:00,Flour and pulses,Dry,60,4 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Pending,2 hours
+890,27,Henry Radhakrishnan,26.833942,75.756539,DON-1890,2025-01-14,12:44:00,fruits,Dry,37,12 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,49.0,Completed,4 hours
+551,96,Yochana Raghavan,26.759482,75.829549,DON-1551,2025-01-04,15:19:00,Flour and pulses,Dry,18,15 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,18.0,Pending,5 hours
+887,36,Charles Varty,26.863621,75.738969,DON-1887,2025-01-02,11:28:00,Milk packets,Water,3,8 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,10.0,Pending,1 hours
+489,136,Pallavi Kurian,26.752553,75.71014,DON-1489,2025-01-27,17:01:00,dry snacks,Dry,30,1 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,36.0,In Progress,3 hours
+148,85,Vaishnavi Kakar,26.889775,75.865199,DON-1148,2025-01-04,09:09:00,rice,Water,39,21 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,8.0,In Progress,
+147,182,Brijesh Misra,26.717143,75.735411,DON-1147,2025-01-26,19:39:00,Oats,Water,62,10 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,21.0,In Progress,1 hours
+721,30,Michael Krish,26.7969,75.818032,DON-1721,2025-01-14,19:41:00,Wheat flour and oil for rural areas,Water,49,14 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,8.0,Pending,
+932,28,Vrinda Goda,26.719822,75.885127,DON-1932,2025-01-02,18:24:00,Flour and pulses,Water,8,24 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,Pending,1 hours
+740,26,Umang Pradhan,26.759358,75.815687,DON-1740,2025-01-04,10:49:00,Oats,Dry,56,1 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,23.0,Pending,
+660,91,Kashish Goda,26.722831,75.701591,DON-1660,2025-01-18,09:52:00,Barley Packets,Dry,71,19 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,7.0,Completed,1 hours
+349,55,Samesh Upadhyay,26.755705,75.767408,DON-1349,2025-01-25,10:53:00,Vegetable,Dry,79,10 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Pending,4 hours
+464,108,Amaira Chhabra,26.811278,75.841523,DON-1464,2025-01-09,12:19:00,Barley Packets,Water,49,23 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,35.0,In Progress,5 hours
+326,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1326,2025-01-24,16:47:00,dry snacks,Dry,8,20 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,39.0,In Progress,5 hours
+187,43,Mohini Nath,26.84628,75.811727,DON-1187,2025-01-30,16:52:00,dry snacks,Water,36,23 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,16.0,Pending,
+124,94,Jalsa Handa,26.769871,75.764742,DON-1124,2025-01-26,13:43:00,rice,Dry,74,11 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,44.0,Completed,5 hours
+854,28,Vrinda Goda,26.719822,75.885127,DON-1854,2025-01-19,16:07:00,Flour and pulses,Water,23,13 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,23.0,Pending,5 hours
+609,76,Reyansh Roy,26.852432,75.718702,DON-1609,2025-01-11,17:15:00,Dal and roti,Water,10,24 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,In Progress,5 hours
+144,183,Chasmum Saha,26.770021,75.813332,DON-1144,2025-01-22,09:26:00,rice,Dry,97,1 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,28.0,Pending,
+959,71,Chasmum Guha,26.785531,75.717638,DON-1959,2025-01-08,17:18:00,fruits,Water,46,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,8.0,In Progress,4 hours
+198,76,Reyansh Roy,26.852432,75.718702,DON-1198,2025-01-07,11:47:00,Wheat flour and oil for rural areas,Dry,52,6 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,In Progress,
+610,179,Adweta Ganguly,26.856185,75.791334,DON-1610,2025-01-14,18:03:00,Vegetable,Water,40,12 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,19.0,Completed,
+280,157,Arjun Saran,26.778523,75.820543,DON-1280,2025-01-14,15:01:00,rice,Dry,4,3 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,42.0,In Progress,
+294,193,Aachal Kamdar,26.818761,75.852758,DON-1294,2025-01-18,11:00:00,fruits,Dry,49,4 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,10.0,Completed,4 hours
+401,57,Leela Chander,26.885541,75.83117,DON-1401,2025-01-07,13:00:00,fruits,Water,60,24 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,23.0,Pending,
+123,22,Zehaan Khanna,26.800031,75.801223,DON-1123,2025-01-08,10:17:00,Dal and roti,Dry,4,23 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,3.0,In Progress,2 hours
+184,50,Laksh Sarna,26.850876,75.778736,DON-1184,2025-01-01,08:31:00,Milk packets,Water,11,7 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,5.0,Pending,
+203,49,Hemang Devan,26.895605,75.703908,DON-1203,2025-01-07,13:20:00,Milk packets,Water,18,24 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,
+439,53,Abeer Bhatia,26.774113,75.791696,DON-1439,2025-01-28,13:21:00,Vegetable,Water,88,5 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,44.0,Completed,1 hours
+247,70,Vidhi Dhingra,26.822678,75.876357,DON-1247,2025-01-27,12:33:00,Oats,Dry,83,5 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Pending,
+416,34,Hredhaan Pai,26.786442,75.861936,DON-1416,2025-01-14,10:37:00,fruits,Dry,4,5 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,33.0,Pending,
+933,151,Timothy Thaker,26.791041,75.832741,DON-1933,2025-01-01,12:44:00,Vegetable,Dry,56,19 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,Pending,5 hours
+766,162,Chaitanya Dora,26.881705,75.767039,DON-1766,2025-01-17,11:02:00,Oats,Water,45,18 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,5.0,Pending,4 hours
+907,25,Odika Lad,26.895331,75.776957,DON-1907,2025-01-25,10:50:00,Wheat flour and oil for rural areas,Water,38,17 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,17.0,In Progress,2 hours
+836,38,Ubika Sagar,26.790539,75.860142,DON-1836,2025-01-20,15:45:00,Vegetable,Water,23,1 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,30.0,Pending,2 hours
+888,170,Harinakshi Patla,26.762652,75.800574,DON-1888,2025-01-29,14:44:00,rice,Water,14,5 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,,In Progress,
+130,103,Tanveer Sheth,26.724473,75.767441,DON-1130,2025-01-09,08:34:00,Barley Packets,Water,99,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,48.0,Pending,4 hours
+638,46,Varenya Nayak,26.873089,75.773779,DON-1638,2025-01-05,12:56:00,Wheat flour and oil for rural areas,Dry,65,1 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,32.0,Completed,3 hours
+403,181,Mohammed Narayan,26.871337,75.709616,DON-1403,2025-01-13,10:22:00,Flour and pulses,Dry,98,18 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,32.0,Pending,
+785,186,Chakrika Dubey,26.848795,75.860781,DON-1785,2025-01-03,07:49:00,Barley Packets,Dry,25,2 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,Completed,
+771,155,Qushi Kala,26.739623,75.865617,DON-1771,2025-01-24,10:18:00,rice,Dry,46,10 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,50.0,Pending,2 hours
+736,40,Agastya Ramesh,26.72999,75.828707,DON-1736,2025-01-04,17:24:00,dry snacks,Dry,4,12 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,,Completed,4 hours
+914,140,Sachi Sabharwal,26.825339,75.70685,DON-1914,2025-01-22,10:03:00,dry snacks,Water,59,12 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,8.0,Completed,3 hours
+220,141,Bimala Yogi,26.725135,75.891187,DON-1220,2025-01-25,09:41:00,Wheat flour and oil for rural areas,Water,87,10 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,16.0,Pending,
+642,119,Neelima Loke,26.71516,75.826112,DON-1642,2025-01-08,14:59:00,Oats,Dry,52,19 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,10.0,Completed,1 hours
+916,91,Kashish Goda,26.722831,75.701591,DON-1916,2025-01-09,11:14:00,Vegetable,Water,12,1 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,In Progress,2 hours
+753,91,Kashish Goda,26.722831,75.701591,DON-1753,2025-01-04,12:26:00,rice,Water,14,4 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,1.0,Pending,4 hours
+807,92,Robert Sood,26.820636,75.834468,DON-1807,2025-01-20,18:48:00,Milk packets,Dry,29,3 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,In Progress,1 hours
+920,101,Suhani Anand,26.763429,75.750599,DON-1920,2025-01-28,15:56:00,Milk packets,Dry,72,23 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,1 hours
+625,99,Praneel Lalla,26.83885,75.857945,DON-1625,2025-01-11,09:38:00,Dal and roti,Dry,71,16 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,8.0,Pending,4 hours
+875,75,Yauvani Bava,26.856871,75.706954,DON-1875,2025-01-04,09:55:00,rice,Dry,36,13 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,24.0,In Progress,1 hours
+761,116,Amara Mannan,26.891738,75.837802,DON-1761,2025-01-20,15:03:00,fruits,Water,93,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,7.0,Pending,5 hours
+387,137,Advik Garde,26.706588,75.712096,DON-1387,2025-01-20,09:35:00,rice,Dry,27,24 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,23.0,In Progress,5 hours
+973,199,Eesha Bawa,26.838714,75.863655,DON-1973,2025-01-22,09:15:00,Dal and roti,Water,70,13 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,10.0,In Progress,2 hours
+510,47,Faraj Chopra,26.701914,75.711746,DON-1510,2025-01-10,17:51:00,Oats,Water,26,7 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,35.0,Pending,5 hours
+268,16,Samarth Mander,26.731557,75.882003,DON-1268,2025-01-30,16:20:00,rice,Dry,28,19 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Pending,1 hours
+820,1,Janya Khalsa,26.878119,75.782802,DON-1820,2025-01-27,10:07:00,rice,Water,41,10 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,Pending,
+442,147,Nirja Chandra,26.784014,75.854785,DON-1442,2025-01-11,19:44:00,fruits,Water,46,24 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,31.0,Pending,1 hours
+497,45,Megha Shenoy,26.783394,75.81316,DON-1497,2025-01-12,08:14:00,dry snacks,Dry,30,13 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,43.0,Pending,
+113,130,Yamini Dash,26.854526,75.811344,DON-1113,2025-01-02,08:46:00,Milk packets,Dry,71,24 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Completed,
+692,154,Aachal Sur,26.851124,75.746106,DON-1692,2025-01-17,16:55:00,Barley Packets,Water,62,7 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,40.0,Pending,4 hours
+233,52,Yashica Badal,26.811817,75.719955,DON-1233,2025-01-30,18:47:00,rice,Dry,38,5 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,Pending,2 hours
+870,28,Vrinda Goda,26.719822,75.885127,DON-1870,2025-01-18,16:04:00,Oats,Dry,98,6 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,47.0,In Progress,3 hours
+608,4,Sai Datta,26.803686,75.78704,DON-1608,2025-01-15,13:18:00,dry snacks,Dry,96,21 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,28.0,Completed,5 hours
+672,103,Tanveer Sheth,26.724473,75.767441,DON-1672,2025-01-29,15:20:00,fruits,Dry,4,4 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,25.0,In Progress,3 hours
+374,145,Ansh Manda,26.709956,75.77625,DON-1374,2025-01-12,09:11:00,Oats,Water,48,22 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,15.0,In Progress,3 hours
+982,37,Jackson Mall,26.750265,75.766778,DON-1982,2025-01-02,07:03:00,Wheat flour and oil for rural areas,Water,46,23 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,42.0,In Progress,5 hours
+843,167,Vinaya Mittal,26.732401,75.708578,DON-1843,2025-01-30,19:12:00,Barley Packets,Water,67,18 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,,Completed,
+234,115,Aachal D’Alia,26.878545,75.89746,DON-1234,2025-01-17,08:38:00,fruits,Dry,98,13 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,10.0,Pending,5 hours
+786,152,Vamakshi Kurian,26.708665,75.832188,DON-1786,2025-01-08,07:52:00,Flour and pulses,Water,99,9 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,12.0,Pending,
+677,27,Henry Radhakrishnan,26.833942,75.756539,DON-1677,2025-01-26,07:53:00,Dal and roti,Dry,99,22 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,7.0,Completed,5 hours
+318,192,Diya Goswami,26.863776,75.740527,DON-1318,2025-01-25,07:36:00,Vegetable,Dry,49,12 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,18.0,Pending,
+649,172,Matthew Atwal,26.713506,75.807374,DON-1649,2025-01-03,16:17:00,Flour and pulses,Dry,90,22 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Completed,4 hours
+411,168,Vamakshi Choudhury,26.769191,75.873895,DON-1411,2025-01-14,14:27:00,rice,Water,62,6 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,45.0,In Progress,
+899,57,Leela Chander,26.885541,75.83117,DON-1899,2025-01-30,17:03:00,Flour and pulses,Water,14,14 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,41.0,In Progress,4 hours
+710,2,Tripti Bassi,26.727851,75.81268,DON-1710,2025-01-16,13:27:00,dry snacks,Dry,48,21 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,48.0,Pending,1 hours
+359,46,Varenya Nayak,26.873089,75.773779,DON-1359,2025-01-17,19:56:00,Oats,Dry,15,12 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,Pending,
+259,183,Chasmum Saha,26.770021,75.813332,DON-1259,2025-01-09,18:01:00,Vegetable,Dry,21,4 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,6.0,Pending,1 hours
+745,164,Gaurav Char,26.748791,75.714016,DON-1745,2025-01-18,12:57:00,rice,Dry,66,10 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,25.0,Pending,
+628,100,Aayush Sekhon,26.731639,75.823248,DON-1628,2025-01-07,10:51:00,fruits,Water,70,21 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,5.0,In Progress,5 hours
+633,164,Gaurav Char,26.748791,75.714016,DON-1633,2025-01-05,17:09:00,Wheat flour and oil for rural areas,Dry,90,4 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,7.0,Pending,
+283,108,Amaira Chhabra,26.811278,75.841523,DON-1283,2025-01-26,16:22:00,fruits,Dry,60,12 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,In Progress,1 hours
+377,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1377,2025-01-11,16:06:00,Dal and roti,Dry,8,16 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,10.0,Completed,5 hours
+385,170,Harinakshi Patla,26.762652,75.800574,DON-1385,2025-01-15,15:57:00,fruits,Water,65,4 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,25.0,Completed,4 hours
+225,27,Henry Radhakrishnan,26.833942,75.756539,DON-1225,2025-01-22,07:27:00,Vegetable,Water,77,14 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,In Progress,2 hours
+954,105,Ojas Rau,26.841649,75.785048,DON-1954,2025-01-23,10:50:00,fruits,Dry,28,9 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,43.0,Completed,2 hours
+815,128,Aadi Sule,26.812119,75.766081,DON-1815,2025-01-07,12:55:00,Wheat flour and oil for rural areas,Dry,78,14 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,,In Progress,1 hours
+473,15,Yatan Bobal,26.787137,75.713336,DON-1473,2025-01-06,15:41:00,Oats,Dry,15,1 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,37.0,Completed,2 hours
+348,74,Damini Dara,26.8442,75.756659,DON-1348,2025-01-10,08:33:00,Flour and pulses,Water,92,5 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,12.0,Pending,
+506,125,Amol Dua,26.792936,75.867675,DON-1506,2025-01-03,15:53:00,Vegetable,Water,13,4 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,50.0,In Progress,2 hours
+640,38,Ubika Sagar,26.790539,75.860142,DON-1640,2025-01-20,09:17:00,Oats,Dry,88,3 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,19.0,In Progress,3 hours
+988,199,Eesha Bawa,26.838714,75.863655,DON-1988,2025-01-12,13:58:00,Wheat flour and oil for rural areas,Dry,20,10 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,28.0,In Progress,
+929,60,Tarak Bains,26.714342,75.746647,DON-1929,2025-01-09,08:51:00,Flour and pulses,Dry,7,6 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,30.0,In Progress,
+906,45,Megha Shenoy,26.783394,75.81316,DON-1906,2025-01-02,11:06:00,Barley Packets,Dry,55,15 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,20.0,Completed,
+620,146,Girish Loyal,26.869622,75.827867,DON-1620,2025-01-11,13:49:00,Barley Packets,Water,56,8 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,1.0,In Progress,
+856,124,Indira Kamdar,26.73905,75.803713,DON-1856,2025-01-28,19:44:00,Wheat flour and oil for rural areas,Dry,7,24 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,11.0,Completed,
+804,110,Hritik Chowdhury,26.754694,75.767868,DON-1804,2025-01-29,12:19:00,dry snacks,Dry,96,18 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,Completed,
+646,117,Ekapad Mukherjee,26.768025,75.795561,DON-1646,2025-01-25,18:25:00,Wheat flour and oil for rural areas,Water,1,24 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,47.0,Completed,2 hours
+847,31,Ishwar Kala,26.778645,75.835654,DON-1847,2025-01-16,17:12:00,Barley Packets,Water,53,4 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,17.0,Pending,3 hours
+557,166,Baljiwan Kade,26.832616,75.808507,DON-1557,2025-01-09,11:25:00,fruits,Dry,100,14 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,,Completed,5 hours
+958,7,Kashvi Dayal,26.848638,75.826573,DON-1958,2025-01-06,18:59:00,Flour and pulses,Dry,11,19 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,18.0,In Progress,1 hours
+578,20,Vamakshi Bajwa,26.850124,75.701205,DON-1578,2025-01-20,12:45:00,Milk packets,Water,62,11 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,49.0,Completed,
+796,17,Yatan Shetty,26.751559,75.7764,DON-1796,2025-01-14,14:32:00,Vegetable,Water,47,24 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Completed,5 hours
+86,54,Wriddhish Buch,26.880799,75.845664,DON-1086,2025-01-21,08:51:00,rice,Water,66,13 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,24.0,Pending,2 hours
+243,159,Ojasvi Gara,26.890661,75.745643,DON-1243,2025-01-19,07:06:00,Vegetable,Water,75,8 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,16.0,Pending,5 hours
+699,200,Bhavani Sami,26.890664,75.751653,DON-1699,2025-01-21,09:23:00,Oats,Dry,93,7 hours,17,Shri Satkeval Goshaalaa,Jaipur,26.794713,75.871971,40.0,Completed,3 hours
+160,92,Robert Sood,26.820636,75.834468,DON-1160,2025-01-15,14:06:00,Wheat flour and oil for rural areas,Dry,44,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,5.0,Completed,
+525,51,Rachita Sha,26.725445,75.837127,DON-1525,2025-01-21,18:16:00,Oats,Water,100,10 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,27.0,Pending,
+36,190,Laban Gole,26.802694,75.824145,DON-1036,2025-01-18,11:30:00,Vegetable,Water,23,20 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,18.0,In Progress,1 hours
+541,19,Yahvi Mitra,26.779391,75.757973,DON-1541,2025-01-18,15:56:00,dry snacks,Dry,90,18 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,43.0,In Progress,1 hours
+171,9,Zinal Bahl,26.700414,75.769247,DON-1171,2025-01-12,17:17:00,Barley Packets,Dry,36,6 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,4.0,Completed,5 hours
+655,95,Alexander Krishna,26.851451,75.897698,DON-1655,2025-01-11,16:13:00,Flour and pulses,Dry,89,20 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,,Completed,1 hours
+891,94,Jalsa Handa,26.769871,75.764742,DON-1891,2025-01-11,10:20:00,dry snacks,Water,31,6 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,29.0,Pending,
+858,11,Anthony Nagy,26.793164,75.811186,DON-1858,2025-01-08,17:35:00,Vegetable,Water,76,18 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,1.0,Pending,
+848,61,Kamya Borah,26.708535,75.713344,DON-1848,2025-01-08,17:54:00,Barley Packets,Dry,48,3 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,23.0,In Progress,2 hours
+945,99,Praneel Lalla,26.83885,75.857945,DON-1945,2025-01-01,17:40:00,Dal and roti,Water,40,16 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,,In Progress,1 hours
+734,184,Gaurangi Sarkar,26.830652,75.708907,DON-1734,2025-01-27,14:09:00,Barley Packets,Dry,5,9 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,9.0,Pending,3 hours
+96,141,Bimala Yogi,26.725135,75.891187,DON-1096,2025-01-24,16:25:00,dry snacks,Water,49,15 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,9.0,Pending,1 hours
+564,154,Aachal Sur,26.851124,75.746106,DON-1564,2025-01-10,07:31:00,Milk packets,Water,58,20 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,18.0,Completed,2 hours
+241,39,Harsh Nadig,26.877666,75.723606,DON-1241,2025-01-19,10:05:00,fruits,Dry,67,13 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,21.0,Completed,
+743,184,Gaurangi Sarkar,26.830652,75.708907,DON-1743,2025-01-13,15:16:00,Oats,Water,55,18 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,7.0,Completed,
+575,185,Dakshesh Kakar,26.744898,75.706815,DON-1575,2025-01-01,11:09:00,Flour and pulses,Dry,75,10 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,11.0,In Progress,3 hours
+691,33,Guneet Brahmbhatt,26.726744,75.773831,DON-1691,2025-01-20,08:01:00,rice,Dry,83,4 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,In Progress,
+461,179,Adweta Ganguly,26.856185,75.791334,DON-1461,2025-01-09,19:47:00,Vegetable,Water,74,8 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,,Completed,
+554,56,Hemani Wason,26.762944,75.778363,DON-1554,2025-01-03,18:24:00,Dal and roti,Dry,6,7 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,37.0,Pending,2 hours
+889,183,Chasmum Saha,26.770021,75.813332,DON-1889,2025-01-28,14:06:00,rice,Dry,6,3 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,15.0,In Progress,1 hours
+207,148,Advaith Ben,26.715782,75.735698,DON-1207,2025-01-12,14:24:00,rice,Dry,88,14 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,15.0,In Progress,3 hours
+393,167,Vinaya Mittal,26.732401,75.708578,DON-1393,2025-01-06,19:02:00,Vegetable,Water,82,18 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,45.0,In Progress,5 hours
+795,137,Advik Garde,26.706588,75.712096,DON-1795,2025-01-26,18:58:00,Milk packets,Dry,89,3 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,50.0,Completed,
+398,67,Kevin Bose,26.849168,75.819414,DON-1398,2025-01-11,12:16:00,Vegetable,Dry,62,22 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,19.0,Completed,5 hours
+767,144,Pavani Mallick,26.769361,75.731242,DON-1767,2025-01-13,17:38:00,Flour and pulses,Water,52,17 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,49.0,In Progress,3 hours
+849,37,Jackson Mall,26.750265,75.766778,DON-1849,2025-01-18,13:19:00,Vegetable,Water,12,20 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,37.0,In Progress,4 hours
+218,152,Vamakshi Kurian,26.708665,75.832188,DON-1218,2025-01-16,07:51:00,rice,Water,21,15 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,5.0,Completed,
+5,152,Vamakshi Kurian,26.708665,75.832188,DON-1005,2025-01-27,08:47:00,dry snacks,Dry,55,24 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,43.0,Pending,3 hours
+769,122,Zayyan Lal,26.794617,75.718491,DON-1769,2025-01-16,16:43:00,Wheat flour and oil for rural areas,Water,78,5 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,31.0,In Progress,
+643,131,Yachana Yadav,26.771896,75.848987,DON-1643,2025-01-01,09:28:00,fruits,Dry,62,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,45.0,Completed,1 hours
+930,144,Pavani Mallick,26.769361,75.731242,DON-1930,2025-01-26,16:08:00,Barley Packets,Dry,83,8 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,43.0,Completed,
+613,101,Suhani Anand,26.763429,75.750599,DON-1613,2025-01-07,17:40:00,Flour and pulses,Dry,67,13 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,14.0,Pending,4 hours
+739,62,Vedhika Kapoor,26.731938,75.817508,DON-1739,2025-01-06,12:29:00,Flour and pulses,Water,13,23 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,16.0,Completed,
+547,145,Ansh Manda,26.709956,75.77625,DON-1547,2025-01-07,07:38:00,Milk packets,Water,83,12 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,2.0,In Progress,1 hours
+726,50,Laksh Sarna,26.850876,75.778736,DON-1726,2025-01-12,19:46:00,Oats,Dry,66,23 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,6.0,Completed,3 hours
+684,32,Praneel Nayar,26.818009,75.750065,DON-1684,2025-01-06,08:19:00,Barley Packets,Dry,23,1 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,25.0,Pending,
+99,39,Harsh Nadig,26.877666,75.723606,DON-1099,2025-01-18,19:48:00,Milk packets,Water,13,4 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,22.0,In Progress,3 hours
+805,188,Samar Mukhopadhyay,26.776191,75.833841,DON-1805,2025-01-02,18:10:00,Milk packets,Water,75,23 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,39.0,Completed,1 hours
+728,182,Brijesh Misra,26.717143,75.735411,DON-1728,2025-01-07,16:03:00,dry snacks,Dry,76,19 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,26.0,Pending,3 hours
+574,140,Sachi Sabharwal,26.825339,75.70685,DON-1574,2025-01-19,18:53:00,dry snacks,Water,14,20 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,5.0,Pending,2 hours
+407,64,Ladli Tak,26.854037,75.738649,DON-1407,2025-01-18,18:55:00,Barley Packets,Water,39,14 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,16.0,Pending,4 hours
+503,127,Omkaar Bhalla,26.837507,75.849418,DON-1503,2025-01-19,13:33:00,Milk packets,Dry,21,1 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,15.0,In Progress,
+48,53,Abeer Bhatia,26.774113,75.791696,DON-1048,2025-01-30,14:30:00,Dal and roti,Dry,95,11 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,16.0,Completed,5 hours
+33,84,Chasmum Gala,26.778928,75.808547,DON-1033,2025-01-15,16:35:00,Vegetable,Water,1,21 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,46.0,In Progress,
+780,154,Aachal Sur,26.851124,75.746106,DON-1780,2025-01-15,18:44:00,Vegetable,Dry,29,9 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,3.0,Completed,3 hours
+840,71,Chasmum Guha,26.785531,75.717638,DON-1840,2025-01-15,10:34:00,rice,Dry,98,14 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,9.0,Completed,
+201,24,Damini Subramanian,26.890176,75.805074,DON-1201,2025-01-13,18:06:00,Barley Packets,Water,74,2 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,In Progress,5 hours
+135,17,Yatan Shetty,26.751559,75.7764,DON-1135,2025-01-05,14:51:00,Wheat flour and oil for rural areas,Water,37,5 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,22.0,In Progress,2 hours
+28,75,Yauvani Bava,26.856871,75.706954,DON-1028,2025-01-24,09:32:00,rice,Water,5,17 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,25.0,Completed,
+881,23,Imaran Agrawal,26.843395,75.719411,DON-1881,2025-01-10,12:29:00,Oats,Water,78,9 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,34.0,Completed,1 hours
+231,141,Bimala Yogi,26.725135,75.891187,DON-1231,2025-01-27,19:45:00,Barley Packets,Water,51,19 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,In Progress,4 hours
+490,13,Ijaya Kalla,26.821349,75.784117,DON-1490,2025-01-08,08:06:00,Milk packets,Water,91,16 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Completed,4 hours
+773,149,Daniel Babu,26.817914,75.810724,DON-1773,2025-01-29,18:00:00,rice,Water,71,8 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,43.0,Completed,2 hours
+379,30,Michael Krish,26.7969,75.818032,DON-1379,2025-01-03,08:58:00,Oats,Dry,30,18 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,29.0,Completed,3 hours
+289,7,Kashvi Dayal,26.848638,75.826573,DON-1289,2025-01-01,19:00:00,Vegetable,Dry,48,17 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,20.0,Pending,
+419,179,Adweta Ganguly,26.856185,75.791334,DON-1419,2025-01-12,13:13:00,Barley Packets,Water,65,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,14.0,Completed,5 hours
+675,75,Yauvani Bava,26.856871,75.706954,DON-1675,2025-01-28,10:12:00,dry snacks,Dry,84,3 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,
+392,128,Aadi Sule,26.812119,75.766081,DON-1392,2025-01-16,16:18:00,Vegetable,Water,49,24 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,,In Progress,3 hours
+593,144,Pavani Mallick,26.769361,75.731242,DON-1593,2025-01-28,12:01:00,Barley Packets,Dry,69,8 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,15.0,Completed,1 hours
+499,35,Omya Jani,26.821185,75.898752,DON-1499,2025-01-02,11:11:00,Milk packets,Water,54,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Completed,5 hours
+139,124,Indira Kamdar,26.73905,75.803713,DON-1139,2025-01-06,18:57:00,Flour and pulses,Dry,64,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,33.0,Completed,3 hours
+63,161,Fariq Som,26.827995,75.76684,DON-1063,2025-01-20,10:11:00,Oats,Water,5,6 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,3.0,In Progress,3 hours
+472,39,Harsh Nadig,26.877666,75.723606,DON-1472,2025-01-06,13:52:00,Wheat flour and oil for rural areas,Water,53,3 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,46.0,Pending,
+648,48,Udarsh Upadhyay,26.70587,75.887977,DON-1648,2025-01-20,08:15:00,Barley Packets,Dry,88,7 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,43.0,Pending,3 hours
+129,126,Omaja Jayaraman,26.882616,75.875604,DON-1129,2025-01-22,09:08:00,fruits,Water,26,19 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,,Completed,2 hours
+977,63,Nidhi Khosla,26.826754,75.88473,DON-1977,2025-01-25,14:36:00,Flour and pulses,Dry,6,17 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,49.0,In Progress,3 hours
+521,37,Jackson Mall,26.750265,75.766778,DON-1521,2025-01-24,15:46:00,Wheat flour and oil for rural areas,Dry,16,1 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,49.0,In Progress,5 hours
+839,191,Ucchal Varty,26.729859,75.842731,DON-1839,2025-01-10,13:05:00,dry snacks,Dry,29,14 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,8.0,Completed,3 hours
+963,169,Timothy Wadhwa,26.746287,75.850718,DON-1963,2025-01-08,13:48:00,Dal and roti,Dry,69,19 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,23.0,Completed,
+65,40,Agastya Ramesh,26.72999,75.828707,DON-1065,2025-01-30,12:48:00,Milk packets,Water,9,18 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,33.0,In Progress,
+813,125,Amol Dua,26.792936,75.867675,DON-1813,2025-01-10,14:20:00,Dal and roti,Water,67,13 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,4.0,Completed,5 hours
+15,22,Zehaan Khanna,26.800031,75.801223,DON-1015,2025-01-21,11:54:00,Oats,Water,12,6 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,34.0,Completed,
+157,97,Chaaya Pai,26.732239,75.702748,DON-1157,2025-01-08,16:03:00,Vegetable,Dry,85,20 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,41.0,In Progress,1 hours
+41,166,Baljiwan Kade,26.832616,75.808507,DON-1041,2025-01-08,10:29:00,dry snacks,Water,37,18 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,19.0,Pending,2 hours
+493,40,Agastya Ramesh,26.72999,75.828707,DON-1493,2025-01-14,19:56:00,Vegetable,Water,27,4 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,8.0,In Progress,3 hours
+380,86,Kritika Rege,26.816809,75.734132,DON-1380,2025-01-23,13:58:00,dry snacks,Water,1,7 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,48.0,In Progress,3 hours
+188,160,Ojas Ramakrishnan,26.712708,75.844207,DON-1188,2025-01-24,18:03:00,Oats,Dry,56,23 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,44.0,In Progress,5 hours
+764,20,Vamakshi Bajwa,26.850124,75.701205,DON-1764,2025-01-20,07:13:00,Milk packets,Dry,37,20 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,38.0,Pending,3 hours
+217,124,Indira Kamdar,26.73905,75.803713,DON-1217,2025-01-13,13:05:00,Oats,Water,51,19 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,25.0,Pending,2 hours
+792,42,Ranbir Bala,26.703043,75.836002,DON-1792,2025-01-25,10:23:00,Wheat flour and oil for rural areas,Water,59,13 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,9.0,Pending,5 hours
+53,150,Ria Misra,26.702824,75.804095,DON-1053,2025-01-20,08:11:00,Dal and roti,Dry,97,23 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,Pending,
+879,20,Vamakshi Bajwa,26.850124,75.701205,DON-1879,2025-01-10,08:47:00,Vegetable,Dry,85,21 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,12.0,Completed,1 hours
+338,123,Priya De,26.853885,75.8277,DON-1338,2025-01-22,12:16:00,dry snacks,Dry,32,23 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,43.0,Pending,2 hours
+749,142,Ronith Modi,26.86912,75.703609,DON-1749,2025-01-14,17:06:00,Vegetable,Water,40,15 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,49.0,In Progress,
+720,111,Odika Venkataraman,26.828806,75.824745,DON-1720,2025-01-29,09:43:00,Oats,Water,21,4 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,9.0,Pending,3 hours
+725,35,Omya Jani,26.821185,75.898752,DON-1725,2025-01-28,19:09:00,dry snacks,Dry,90,1 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,13.0,Pending,4 hours
+296,90,Gabriel Puri,26.869881,75.810337,DON-1296,2025-01-04,11:45:00,Oats,Water,87,6 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,5 hours
+702,192,Diya Goswami,26.863776,75.740527,DON-1702,2025-01-22,15:16:00,Wheat flour and oil for rural areas,Dry,75,13 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,2.0,In Progress,1 hours
+252,54,Wriddhish Buch,26.880799,75.845664,DON-1252,2025-01-16,13:06:00,Barley Packets,Water,60,8 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Pending,5 hours
+727,124,Indira Kamdar,26.73905,75.803713,DON-1727,2025-01-04,12:50:00,rice,Water,100,19 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,40.0,Completed,
+462,195,Sathvik Hans,26.707639,75.78968,DON-1462,2025-01-11,10:21:00,rice,Water,100,4 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,Pending,
+456,34,Hredhaan Pai,26.786442,75.861936,DON-1456,2025-01-10,09:24:00,Oats,Dry,36,8 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,10.0,Completed,
+997,119,Neelima Loke,26.71516,75.826112,DON-1997,2025-01-23,14:12:00,Milk packets,Water,83,13 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,11.0,Pending,
+816,156,Meera Grewal,26.726773,75.897813,DON-1816,2025-01-15,08:43:00,dry snacks,Dry,67,24 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,8.0,Pending,3 hours
+863,79,Chakrika Mukhopadhyay,26.797907,75.74848,DON-1863,2025-01-07,19:14:00,rice,Dry,10,14 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,1.0,Pending,4 hours
+270,22,Zehaan Khanna,26.800031,75.801223,DON-1270,2025-01-15,13:24:00,Wheat flour and oil for rural areas,Dry,54,14 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,30.0,Pending,3 hours
+202,189,Saksham Dara,26.766417,75.833211,DON-1202,2025-01-30,18:28:00,Flour and pulses,Dry,41,24 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Completed,2 hours
+162,17,Yatan Shetty,26.751559,75.7764,DON-1162,2025-01-20,07:43:00,dry snacks,Water,42,2 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,50.0,Completed,
+556,197,Gagan Sheth,26.726849,75.855149,DON-1556,2025-01-25,11:29:00,Oats,Water,20,4 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,42.0,Pending,
+730,1,Janya Khalsa,26.878119,75.782802,DON-1730,2025-01-29,10:10:00,Flour and pulses,Dry,78,13 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,24.0,Pending,5 hours
+402,50,Laksh Sarna,26.850876,75.778736,DON-1402,2025-01-30,12:31:00,fruits,Dry,81,11 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,17.0,Pending,1 hours
+703,49,Hemang Devan,26.895605,75.703908,DON-1703,2025-01-28,13:24:00,dry snacks,Water,100,5 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,20.0,In Progress,5 hours
+477,19,Yahvi Mitra,26.779391,75.757973,DON-1477,2025-01-15,08:03:00,Barley Packets,Water,81,16 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,29.0,In Progress,
+822,60,Tarak Bains,26.714342,75.746647,DON-1822,2025-01-02,13:18:00,dry snacks,Dry,81,2 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,35.0,In Progress,3 hours
+772,189,Saksham Dara,26.766417,75.833211,DON-1772,2025-01-02,07:02:00,Wheat flour and oil for rural areas,Water,97,7 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,19.0,Completed,
+106,34,Hredhaan Pai,26.786442,75.861936,DON-1106,2025-01-11,11:46:00,Wheat flour and oil for rural areas,Water,14,19 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,43.0,In Progress,
+566,108,Amaira Chhabra,26.811278,75.841523,DON-1566,2025-01-07,08:39:00,rice,Water,29,21 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,2.0,In Progress,
+390,92,Robert Sood,26.820636,75.834468,DON-1390,2025-01-24,09:56:00,Oats,Dry,17,2 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,5.0,Pending,3 hours
+2,56,Hemani Wason,26.762944,75.778363,DON-1002,2025-01-18,09:19:00,Vegetable,Water,17,17 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,In Progress,5 hours
+938,55,Samesh Upadhyay,26.755705,75.767408,DON-1938,2025-01-21,17:35:00,Dal and roti,Water,34,2 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,9.0,In Progress,5 hours
+983,149,Daniel Babu,26.817914,75.810724,DON-1983,2025-01-01,11:02:00,Milk packets,Dry,90,21 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,In Progress,
+562,102,Dominic Warrior,26.85062,75.881819,DON-1562,2025-01-25,09:58:00,dry snacks,Dry,92,17 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,14.0,Completed,
+81,65,Eta Bajaj,26.78673,75.71127,DON-1081,2025-01-14,14:51:00,Barley Packets,Water,72,1 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,41.0,Pending,4 hours
+206,104,Omkaar Sachar,26.756867,75.818402,DON-1206,2025-01-20,17:51:00,dry snacks,Water,1,17 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,4.0,In Progress,2 hours
+35,25,Odika Lad,26.895331,75.776957,DON-1035,2025-01-27,17:01:00,Flour and pulses,Water,60,19 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,50.0,Pending,4 hours
+776,7,Kashvi Dayal,26.848638,75.826573,DON-1776,2025-01-19,08:34:00,fruits,Dry,48,7 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,,Pending,
+509,54,Wriddhish Buch,26.880799,75.845664,DON-1509,2025-01-25,18:25:00,Wheat flour and oil for rural areas,Water,99,20 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,42.0,Pending,3 hours
+428,65,Eta Bajaj,26.78673,75.71127,DON-1428,2025-01-17,14:53:00,fruits,Water,48,13 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,7.0,Pending,
+455,154,Aachal Sur,26.851124,75.746106,DON-1455,2025-01-29,08:48:00,rice,Dry,61,12 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,28.0,In Progress,
+367,145,Ansh Manda,26.709956,75.77625,DON-1367,2025-01-04,15:53:00,rice,Water,38,23 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,16.0,Completed,4 hours
+92,73,Jagdish Issac,26.849034,75.775013,DON-1092,2025-01-27,11:27:00,dry snacks,Water,24,3 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,28.0,In Progress,3 hours
+340,197,Gagan Sheth,26.726849,75.855149,DON-1340,2025-01-21,09:44:00,fruits,Water,61,9 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,,Pending,2 hours
+898,69,Warjas Virk,26.885834,75.776409,DON-1898,2025-01-16,07:19:00,Milk packets,Dry,73,16 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,32.0,Pending,
+565,190,Laban Gole,26.802694,75.824145,DON-1565,2025-01-27,08:00:00,Vegetable,Water,63,11 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,42.0,In Progress,1 hours
+346,57,Leela Chander,26.885541,75.83117,DON-1346,2025-01-30,18:19:00,Barley Packets,Dry,23,9 hours,9,Shri Monghiba Goshaalaa,Jaipur,26.839217,75.716761,16.0,Pending,1 hours
+777,73,Jagdish Issac,26.849034,75.775013,DON-1777,2025-01-15,09:32:00,Dal and roti,Water,86,6 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,12.0,Pending,5 hours
+242,38,Ubika Sagar,26.790539,75.860142,DON-1242,2025-01-26,07:44:00,Barley Packets,Dry,100,17 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,,Completed,1 hours
+14,2,Tripti Bassi,26.727851,75.81268,DON-1014,2025-01-06,16:18:00,Milk packets,Dry,23,9 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,,Pending,4 hours
+316,72,Vrinda Bera,26.740522,75.836951,DON-1316,2025-01-24,08:26:00,Barley Packets,Dry,28,21 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,,In Progress,1 hours
+601,186,Chakrika Dubey,26.848795,75.860781,DON-1601,2025-01-11,16:55:00,fruits,Dry,73,22 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,48.0,Completed,4 hours
+388,65,Eta Bajaj,26.78673,75.71127,DON-1388,2025-01-24,11:06:00,fruits,Water,12,23 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,49.0,Pending,5 hours
+274,116,Amara Mannan,26.891738,75.837802,DON-1274,2025-01-30,16:20:00,fruits,Water,24,5 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,,In Progress,
+167,173,Liam Nagarajan,26.751635,75.763185,DON-1167,2025-01-09,13:12:00,rice,Dry,9,12 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,42.0,Completed,5 hours
+841,39,Harsh Nadig,26.877666,75.723606,DON-1841,2025-01-14,13:48:00,Oats,Dry,50,16 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,27.0,In Progress,2 hours
+993,142,Ronith Modi,26.86912,75.703609,DON-1993,2025-01-28,07:54:00,fruits,Dry,48,3 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,12.0,In Progress,2 hours
+647,151,Timothy Thaker,26.791041,75.832741,DON-1647,2025-01-20,15:37:00,Dal and roti,Water,54,10 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,36.0,Pending,
+819,124,Indira Kamdar,26.73905,75.803713,DON-1819,2025-01-07,15:30:00,Dal and roti,Water,94,6 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,32.0,Pending,1 hours
+485,92,Robert Sood,26.820636,75.834468,DON-1485,2025-01-02,13:27:00,Oats,Water,14,21 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,39.0,Completed,
+981,82,Noah Raj,26.848809,75.867494,DON-1981,2025-01-21,13:04:00,dry snacks,Dry,53,4 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,12.0,Pending,3 hours
+505,13,Ijaya Kalla,26.821349,75.784117,DON-1505,2025-01-12,11:32:00,dry snacks,Water,3,16 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,2.0,Pending,5 hours
+832,57,Leela Chander,26.885541,75.83117,DON-1832,2025-01-04,15:36:00,Oats,Dry,63,19 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,In Progress,4 hours
+244,120,Forum Pall,26.76098,75.843718,DON-1244,2025-01-17,08:58:00,Vegetable,Water,60,7 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,35.0,In Progress,5 hours
+567,124,Indira Kamdar,26.73905,75.803713,DON-1567,2025-01-14,19:43:00,Wheat flour and oil for rural areas,Water,47,20 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,35.0,In Progress,4 hours
+876,9,Zinal Bahl,26.700414,75.769247,DON-1876,2025-01-24,09:27:00,Vegetable,Dry,45,13 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,41.0,In Progress,5 hours
+563,134,Hemang Solanki,26.859647,75.723973,DON-1563,2025-01-21,14:25:00,Flour and pulses,Water,25,23 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,22.0,Completed,5 hours
+687,162,Chaitanya Dora,26.881705,75.767039,DON-1687,2025-01-01,15:07:00,Vegetable,Water,2,24 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,6.0,Pending,4 hours
+190,142,Ronith Modi,26.86912,75.703609,DON-1190,2025-01-13,13:57:00,Wheat flour and oil for rural areas,Dry,79,13 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,40.0,In Progress,3 hours
+783,151,Timothy Thaker,26.791041,75.832741,DON-1783,2025-01-03,11:48:00,Flour and pulses,Dry,34,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,29.0,In Progress,4 hours
+700,193,Aachal Kamdar,26.818761,75.852758,DON-1700,2025-01-26,12:54:00,Dal and roti,Dry,74,19 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,,In Progress,3 hours
+476,137,Advik Garde,26.706588,75.712096,DON-1476,2025-01-02,17:28:00,Milk packets,Dry,10,13 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,40.0,Pending,2 hours
+682,33,Guneet Brahmbhatt,26.726744,75.773831,DON-1682,2025-01-24,13:22:00,fruits,Dry,73,24 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,2.0,Completed,4 hours
+511,93,Bina Jayaraman,26.739237,75.715902,DON-1511,2025-01-03,18:36:00,Milk packets,Water,87,16 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,10.0,In Progress,
+59,31,Ishwar Kala,26.778645,75.835654,DON-1059,2025-01-04,09:11:00,Dal and roti,Dry,88,5 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,5.0,Completed,3 hours
+475,66,Abeer Saran,26.742704,75.729659,DON-1475,2025-01-02,11:50:00,Wheat flour and oil for rural areas,Dry,98,6 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,43.0,Completed,5 hours
+561,62,Vedhika Kapoor,26.731938,75.817508,DON-1561,2025-01-14,12:29:00,Oats,Dry,40,23 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,8.0,Pending,3 hours
+857,92,Robert Sood,26.820636,75.834468,DON-1857,2025-01-26,14:05:00,rice,Dry,44,3 hours,12,Shri Kabir Ashram Goshaalaa,Jaipur,26.749535,75.809407,46.0,In Progress,
+748,167,Vinaya Mittal,26.732401,75.708578,DON-1748,2025-01-01,09:13:00,Wheat flour and oil for rural areas,Water,55,13 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,,In Progress,3 hours
+253,78,Lajita Bala,26.787715,75.859456,DON-1253,2025-01-21,19:54:00,Dal and roti,Dry,31,20 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,46.0,Completed,4 hours
+22,156,Meera Grewal,26.726773,75.897813,DON-1022,2025-01-06,19:41:00,Barley Packets,Water,27,22 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,,Completed,3 hours
+314,153,Imaran Dugar,26.714265,75.856695,DON-1314,2025-01-06,14:58:00,rice,Water,79,17 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,25.0,Completed,
+460,33,Guneet Brahmbhatt,26.726744,75.773831,DON-1460,2025-01-08,07:11:00,fruits,Dry,90,18 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,40.0,In Progress,
+161,78,Lajita Bala,26.787715,75.859456,DON-1161,2025-01-17,16:43:00,Dal and roti,Water,69,21 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,15.0,Pending,
+277,59,Azad Nadig,26.855899,75.885136,DON-1277,2025-01-09,12:00:00,Flour and pulses,Water,20,8 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,37.0,Completed,3 hours
+956,180,Zaitra Madan,26.828823,75.828721,DON-1956,2025-01-12,07:45:00,Wheat flour and oil for rural areas,Water,93,22 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,19.0,Pending,2 hours
+192,29,Gautami Raja,26.848362,75.835266,DON-1192,2025-01-08,16:23:00,Vegetable,Water,43,10 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,30.0,Completed,1 hours
+386,38,Ubika Sagar,26.790539,75.860142,DON-1386,2025-01-16,19:19:00,Milk packets,Water,71,16 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,15.0,Completed,
+806,187,Ati Kohli,26.869059,75.753208,DON-1806,2025-01-18,14:03:00,Barley Packets,Water,12,5 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,50.0,In Progress,
+414,57,Leela Chander,26.885541,75.83117,DON-1414,2025-01-26,19:20:00,Oats,Water,55,4 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,28.0,Pending,3 hours
+492,176,Zilmil Bala,26.862976,75.772816,DON-1492,2025-01-02,10:32:00,Oats,Dry,76,18 hours,10,Shri 108 Purushottamlalji Gausewa Trust,Jaipur,26.836852,75.706736,8.0,In Progress,2 hours
+344,172,Matthew Atwal,26.713506,75.807374,DON-1344,2025-01-30,16:11:00,Oats,Dry,5,11 hours,1,Shri Jalaram Mandir Trust GoshaalaaJalaram Gosewa Kendra,Jaipur,26.785044,75.768477,50.0,Completed,
+770,119,Neelima Loke,26.71516,75.826112,DON-1770,2025-01-08,14:56:00,Vegetable,Water,67,6 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,35.0,In Progress,
+309,35,Omya Jani,26.821185,75.898752,DON-1309,2025-01-07,09:08:00,Flour and pulses,Water,18,1 hours,19,Shri Umiya Goshaalaa Trust,Jaipur,26.754412,75.75911,3.0,In Progress,
+662,175,Vaishnavi Sani,26.890403,75.848641,DON-1662,2025-01-30,10:00:00,Vegetable,Water,63,23 hours,16,Shri Swaminarayan Mandir Goshaalaa,Jaipur,26.89719,75.886273,16.0,In Progress,4 hours
+131,81,Lakshit Magar,26.75003,75.833552,DON-1131,2025-01-02,11:45:00,Oats,Dry,16,7 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,34.0,Pending,3 hours
+664,131,Yachana Yadav,26.771896,75.848987,DON-1664,2025-01-08,18:34:00,rice,Water,4,1 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,17.0,Completed,
+872,198,Tarak Dayal,26.892582,75.723841,DON-1872,2025-01-19,16:05:00,Vegetable,Dry,2,16 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,1.0,Pending,1 hours
+100,125,Amol Dua,26.792936,75.867675,DON-1100,2025-01-19,13:51:00,Oats,Dry,40,19 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,47.0,Pending,5 hours
+373,129,Chameli Sastry,26.813844,75.872913,DON-1373,2025-01-13,19:59:00,Wheat flour and oil for rural areas,Water,78,4 hours,15,Aryavan Vikas Trust Goshaalaa,Jaipur,26.722795,75.735231,,Pending,3 hours
+88,108,Amaira Chhabra,26.811278,75.841523,DON-1088,2025-01-14,19:17:00,Flour and pulses,Water,11,14 hours,14,Shriji Goshaalaa,Jaipur,26.839527,75.724164,,Completed,3 hours
+459,168,Vamakshi Choudhury,26.769191,75.873895,DON-1459,2025-01-12,19:13:00,Dal and roti,Dry,17,2 hours,11,Shri Ramroti Ashray Goshaalaa,Jaipur,26.826206,75.876962,1.0,Completed,5 hours
+331,129,Chameli Sastry,26.813844,75.872913,DON-1331,2025-01-10,09:59:00,rice,Dry,50,11 hours,8,Shri Bochasanwasi Aksharpurushottam Mandir Goshaalaa,Jaipur,26.800472,75.882587,34.0,Completed,4 hours
+215,189,Saksham Dara,26.766417,75.833211,DON-1215,2025-01-09,08:22:00,rice,Water,71,4 hours,5,Shri Gopinathji Goshaalaa,Jaipur,26.860899,75.722944,,Pending,4 hours
+467,35,Omya Jani,26.821185,75.898752,DON-1467,2025-01-23,14:37:00,fruits,Water,66,11 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,,Completed,4 hours
+122,76,Reyansh Roy,26.852432,75.718702,DON-1122,2025-01-14,19:06:00,Barley Packets,Water,35,17 hours,4,Shri Bansi Goshaalaa,Jaipur,26.881822,75.783708,40.0,Pending,2 hours
+615,36,Charles Varty,26.863621,75.738969,DON-1615,2025-01-16,11:44:00,Vegetable,Water,90,22 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,,Completed,2 hours
+21,153,Imaran Dugar,26.714265,75.856695,DON-1021,2025-01-30,16:20:00,Oats,Dry,73,22 hours,3,Shri Manekba Vinayvihar Goshaalaa,Jaipur,26.772156,75.722074,39.0,Completed,
+701,155,Qushi Kala,26.739623,75.865617,DON-1701,2025-01-15,16:50:00,rice,Dry,91,10 hours,7,Shri Lokbharati Gramvidyapeeth Goshaalaa,Jaipur,26.747357,75.746761,,In Progress,
+72,174,Anita Som,26.819708,75.809288,DON-1072,2025-01-17,09:20:00,Wheat flour and oil for rural areas,Water,90,16 hours,18,Shri Anandbawa Sewa Samarth Goshaalaa,Jaipur,26.836556,75.712162,26.0,Pending,4 hours
+107,168,Vamakshi Choudhury,26.769191,75.873895,DON-1107,2025-01-21,15:23:00,Oats,Dry,69,5 hours,13,Shri Bhuvneshwari Peeth Goshaalaa,Jaipur,26.876627,75.767483,31.0,Completed,
+271,33,Guneet Brahmbhatt,26.726744,75.773831,DON-1271,2025-01-30,12:23:00,Milk packets,Dry,43,5 hours,20,Shri Vardhman Jivdaya Kendra,Jaipur,26.754867,75.866904,49.0,Pending,2 hours
+861,185,Dakshesh Kakar,26.744898,75.706815,DON-1861,2025-01-11,09:35:00,Oats,Water,37,13 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,1.0,In Progress,1 hours
+436,79,Chakrika Mukhopadhyay,26.797907,75.74848,DON-1436,2025-01-28,18:29:00,Dal and roti,Dry,44,21 hours,2,Shri Radhanpur Khoda Dhor Panjrapol Goshaalaa,Jaipur,26.844608,75.886375,28.0,Pending,4 hours
+103,200,Bhavani Sami,26.890664,75.751653,DON-1103,2025-01-07,07:06:00,dry snacks,Dry,69,9 hours,6,Shri Swami Narayan Gurukul Vishwavidyalaya,Jaipur,26.701259,75.745296,6.0,Completed,2 hours
